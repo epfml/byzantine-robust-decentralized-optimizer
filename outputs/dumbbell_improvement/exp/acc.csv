@@ -1,0 +1,1801 @@
+Iterations,Accuracy (%),Agg,Bucketing,RandomEdge,Group
+0,81.07972756410257,Gossip,False,False,global
+30,86.81891025641026,Gossip,False,False,global
+60,87.33974358974359,Gossip,False,False,global
+90,88.46153846153847,Gossip,False,False,global
+120,89.17267628205128,Gossip,False,False,global
+150,89.59334935897436,Gossip,False,False,global
+180,89.93389423076923,Gossip,False,False,global
+210,90.04407051282051,Gossip,False,False,global
+240,90.46474358974359,Gossip,False,False,global
+270,90.61498397435898,Gossip,False,False,global
+300,90.73517628205128,Gossip,False,False,global
+330,91.15584935897436,Gossip,False,False,global
+360,92.11738782051282,Gossip,False,False,global
+390,92.15745192307692,Gossip,False,False,global
+420,92.41786858974359,Gossip,False,False,global
+450,92.55809294871794,Gossip,False,False,global
+480,92.60817307692308,Gossip,False,False,global
+510,92.71834935897436,Gossip,False,False,global
+540,92.85857371794872,Gossip,False,False,global
+570,92.89863782051282,Gossip,False,False,global
+600,93.05889423076923,Gossip,False,False,global
+630,93.0088141025641,Gossip,False,False,global
+660,92.83854166666667,Gossip,False,False,global
+690,93.0088141025641,Gossip,False,False,global
+720,93.20913461538461,Gossip,False,False,global
+750,93.21915064102564,Gossip,False,False,global
+780,93.19911858974359,Gossip,False,False,global
+810,93.21915064102564,Gossip,False,False,global
+840,93.22916666666667,Gossip,False,False,global
+870,93.24919871794872,Gossip,False,False,global
+0,49.38902243589744,Gossip,False,False,clique 1
+30,49.98998397435897,Gossip,False,False,clique 1
+60,49.69951923076923,Gossip,False,False,clique 1
+90,50.260416666666664,Gossip,False,False,clique 1
+120,51.75280448717949,Gossip,False,False,clique 1
+150,52.66426282051282,Gossip,False,False,clique 1
+180,53.92628205128205,Gossip,False,False,clique 1
+210,54.90785256410256,Gossip,False,False,clique 1
+240,55.78926282051282,Gossip,False,False,clique 1
+270,57.321714743589745,Gossip,False,False,clique 1
+300,57.69230769230769,Gossip,False,False,clique 1
+330,58.39342948717949,Gossip,False,False,clique 1
+360,60.37660256410256,Gossip,False,False,clique 1
+390,58.6338141025641,Gossip,False,False,clique 1
+420,60.53685897435897,Gossip,False,False,clique 1
+450,61.80889423076923,Gossip,False,False,clique 1
+480,62.890625,Gossip,False,False,clique 1
+510,63.29126602564103,Gossip,False,False,clique 1
+540,64.19270833333333,Gossip,False,False,clique 1
+570,64.5733173076923,Gossip,False,False,clique 1
+600,65.1141826923077,Gossip,False,False,clique 1
+630,65.77524038461539,Gossip,False,False,clique 1
+660,66.54647435897436,Gossip,False,False,clique 1
+690,67.13741987179488,Gossip,False,False,clique 1
+720,67.6983173076923,Gossip,False,False,clique 1
+750,68.3193108974359,Gossip,False,False,clique 1
+780,68.80008012820512,Gossip,False,False,clique 1
+810,69.33092948717949,Gossip,False,False,clique 1
+840,69.72155448717949,Gossip,False,False,clique 1
+870,70.17227564102564,Gossip,False,False,clique 1
+0,44.20072115384615,Gossip,False,False,clique 2
+30,45.85336538461539,Gossip,False,False,clique 2
+60,46.30408653846154,Gossip,False,False,clique 2
+90,46.985176282051285,Gossip,False,False,clique 2
+120,48.89823717948718,Gossip,False,False,clique 2
+150,50.38060897435897,Gossip,False,False,clique 2
+180,51.272035256410255,Gossip,False,False,clique 2
+210,52.34375,Gossip,False,False,clique 2
+240,54.73758012820513,Gossip,False,False,clique 2
+270,50.891426282051285,Gossip,False,False,clique 2
+300,52.48397435897436,Gossip,False,False,clique 2
+330,53.11498397435897,Gossip,False,False,clique 2
+360,56.05969551282051,Gossip,False,False,clique 2
+390,58.19310897435897,Gossip,False,False,clique 2
+420,58.92427884615385,Gossip,False,False,clique 2
+450,58.493589743589745,Gossip,False,False,clique 2
+480,62.16947115384615,Gossip,False,False,clique 2
+510,63.49158653846154,Gossip,False,False,clique 2
+540,64.85376602564102,Gossip,False,False,clique 2
+570,65.43469551282051,Gossip,False,False,clique 2
+600,66.40625,Gossip,False,False,clique 2
+630,66.29607371794872,Gossip,False,False,clique 2
+660,65.81530448717949,Gossip,False,False,clique 2
+690,67.31770833333333,Gossip,False,False,clique 2
+720,68.28926282051282,Gossip,False,False,clique 2
+750,69.40104166666667,Gossip,False,False,clique 2
+780,69.83173076923077,Gossip,False,False,clique 2
+810,70.67307692307692,Gossip,False,False,clique 2
+840,71.33413461538461,Gossip,False,False,clique 2
+870,71.9551282051282,Gossip,False,False,clique 2
+0,81.5604967948718,Gossip,False,True,global
+30,87.15945512820512,Gossip,False,True,global
+60,88.68189102564102,Gossip,False,True,global
+90,89.43309294871794,Gossip,False,True,global
+120,89.93389423076923,Gossip,False,True,global
+150,90.28445512820512,Gossip,False,True,global
+180,90.24439102564102,Gossip,False,True,global
+210,90.52483974358974,Gossip,False,True,global
+240,91.35616987179488,Gossip,False,True,global
+270,90.98557692307692,Gossip,False,True,global
+300,91.6766826923077,Gossip,False,True,global
+330,92.15745192307692,Gossip,False,True,global
+360,92.27764423076923,Gossip,False,True,global
+390,92.98878205128206,Gossip,False,True,global
+420,92.82852564102564,Gossip,False,True,global
+450,92.9286858974359,Gossip,False,True,global
+480,93.0088141025641,Gossip,False,True,global
+510,92.94871794871794,Gossip,False,True,global
+540,92.98878205128206,Gossip,False,True,global
+570,93.12900641025641,Gossip,False,True,global
+600,93.33934294871794,Gossip,False,True,global
+630,93.45953525641026,Gossip,False,True,global
+660,93.50961538461539,Gossip,False,True,global
+690,93.59975961538461,Gossip,False,True,global
+720,93.54967948717949,Gossip,False,True,global
+750,93.42948717948718,Gossip,False,True,global
+780,93.49959935897436,Gossip,False,True,global
+810,93.57972756410257,Gossip,False,True,global
+840,93.55969551282051,Gossip,False,True,global
+870,93.58974358974359,Gossip,False,True,global
+0,49.33894230769231,Gossip,False,True,clique 1
+30,50.05008012820513,Gossip,False,True,clique 1
+60,51.88301282051282,Gossip,False,True,clique 1
+90,53.826121794871796,Gossip,False,True,clique 1
+120,54.89783653846154,Gossip,False,True,clique 1
+150,55.88942307692308,Gossip,False,True,clique 1
+180,57.45192307692308,Gossip,False,True,clique 1
+210,58.60376602564103,Gossip,False,True,clique 1
+240,59.92588141025641,Gossip,False,True,clique 1
+270,60.9375,Gossip,False,True,clique 1
+300,62.419871794871796,Gossip,False,True,clique 1
+330,62.26963141025641,Gossip,False,True,clique 1
+360,65.3545673076923,Gossip,False,True,clique 1
+390,62.98076923076923,Gossip,False,True,clique 1
+420,65.83533653846153,Gossip,False,True,clique 1
+450,68.30929487179488,Gossip,False,True,clique 1
+480,68.96033653846153,Gossip,False,True,clique 1
+510,70.3926282051282,Gossip,False,True,clique 1
+540,71.28405448717949,Gossip,False,True,clique 1
+570,71.9551282051282,Gossip,False,True,clique 1
+600,72.41586538461539,Gossip,False,True,clique 1
+630,73.21714743589743,Gossip,False,True,clique 1
+660,74.00841346153847,Gossip,False,True,clique 1
+690,74.71955128205128,Gossip,False,True,clique 1
+720,75.09014423076923,Gossip,False,True,clique 1
+750,75.55088141025641,Gossip,False,True,clique 1
+780,75.91145833333333,Gossip,False,True,clique 1
+810,76.45232371794872,Gossip,False,True,clique 1
+840,76.9931891025641,Gossip,False,True,clique 1
+870,77.37379807692308,Gossip,False,True,clique 1
+0,44.16065705128205,Gossip,False,True,clique 2
+30,45.91346153846154,Gossip,False,True,clique 2
+60,48.07692307692308,Gossip,False,True,clique 2
+90,50.61097756410256,Gossip,False,True,clique 2
+120,53.72596153846154,Gossip,False,True,clique 2
+150,56.08974358974359,Gossip,False,True,clique 2
+180,58.19310897435897,Gossip,False,True,clique 2
+210,57.33173076923077,Gossip,False,True,clique 2
+240,54.797676282051285,Gossip,False,True,clique 2
+270,58.29326923076923,Gossip,False,True,clique 2
+300,58.463541666666664,Gossip,False,True,clique 2
+330,57.8525641025641,Gossip,False,True,clique 2
+360,61.10777243589744,Gossip,False,True,clique 2
+390,62.46995192307692,Gossip,False,True,clique 2
+420,65.06410256410257,Gossip,False,True,clique 2
+450,67.9286858974359,Gossip,False,True,clique 2
+480,69.08052884615384,Gossip,False,True,clique 2
+510,69.70152243589743,Gossip,False,True,clique 2
+540,70.10216346153847,Gossip,False,True,clique 2
+570,71.37419871794872,Gossip,False,True,clique 2
+600,72.5360576923077,Gossip,False,True,clique 2
+630,73.92828525641026,Gossip,False,True,clique 2
+660,73.54767628205128,Gossip,False,True,clique 2
+690,73.828125,Gossip,False,True,clique 2
+720,74.78966346153847,Gossip,False,True,clique 2
+750,74.42908653846153,Gossip,False,True,clique 2
+780,76.2520032051282,Gossip,False,True,clique 2
+810,76.49238782051282,Gossip,False,True,clique 2
+840,76.86298076923077,Gossip,False,True,clique 2
+870,77.10336538461539,Gossip,False,True,clique 2
+0,78.83613782051282,GM,False,False,global
+30,84.54527243589743,GM,False,False,global
+60,85.9375,GM,False,False,global
+90,86.72876602564102,GM,False,False,global
+120,86.81891025641026,GM,False,False,global
+150,87.66025641025641,GM,False,False,global
+180,87.60016025641026,GM,False,False,global
+210,87.51001602564102,GM,False,False,global
+240,87.84054487179488,GM,False,False,global
+270,86.35817307692308,GM,False,False,global
+300,87.13942307692308,GM,False,False,global
+330,88.03084935897436,GM,False,False,global
+360,88.35136217948718,GM,False,False,global
+390,89.1025641025641,GM,False,False,global
+420,89.23277243589743,GM,False,False,global
+450,88.52163461538461,GM,False,False,global
+480,88.49158653846153,GM,False,False,global
+510,87.9306891025641,GM,False,False,global
+540,88.12099358974359,GM,False,False,global
+570,88.35136217948718,GM,False,False,global
+600,88.58173076923077,GM,False,False,global
+630,88.68189102564102,GM,False,False,global
+660,88.76201923076923,GM,False,False,global
+690,88.93229166666667,GM,False,False,global
+720,89.0625,GM,False,False,global
+750,89.11258012820512,GM,False,False,global
+780,89.1826923076923,GM,False,False,global
+810,89.23277243589743,GM,False,False,global
+840,89.32291666666667,GM,False,False,global
+870,89.38301282051282,GM,False,False,global
+0,49.298878205128204,GM,False,False,clique 1
+30,49.81971153846154,GM,False,False,clique 1
+60,50.15024038461539,GM,False,False,clique 1
+90,50.40064102564103,GM,False,False,clique 1
+120,50.44070512820513,GM,False,False,clique 1
+150,50.54086538461539,GM,False,False,clique 1
+180,50.53084935897436,GM,False,False,clique 1
+210,50.520833333333336,GM,False,False,clique 1
+240,50.63100961538461,GM,False,False,clique 1
+270,50.59094551282051,GM,False,False,clique 1
+300,50.64102564102564,GM,False,False,clique 1
+330,50.651041666666664,GM,False,False,clique 1
+360,50.681089743589745,GM,False,False,clique 1
+390,50.701121794871796,GM,False,False,clique 1
+420,50.701121794871796,GM,False,False,clique 1
+450,50.71113782051282,GM,False,False,clique 1
+480,50.71113782051282,GM,False,False,clique 1
+510,50.71113782051282,GM,False,False,clique 1
+540,50.71113782051282,GM,False,False,clique 1
+570,50.71113782051282,GM,False,False,clique 1
+600,50.71113782051282,GM,False,False,clique 1
+630,50.73116987179487,GM,False,False,clique 1
+660,50.73116987179487,GM,False,False,clique 1
+690,50.72115384615385,GM,False,False,clique 1
+720,50.72115384615385,GM,False,False,clique 1
+750,50.72115384615385,GM,False,False,clique 1
+780,50.73116987179487,GM,False,False,clique 1
+810,50.73116987179487,GM,False,False,clique 1
+840,50.73116987179487,GM,False,False,clique 1
+870,50.73116987179487,GM,False,False,clique 1
+0,44.240785256410255,GM,False,False,clique 2
+30,45.803285256410255,GM,False,False,clique 2
+60,46.16386217948718,GM,False,False,clique 2
+90,46.49439102564103,GM,False,False,clique 2
+120,46.70472756410256,GM,False,False,clique 2
+150,46.84495192307692,GM,False,False,clique 2
+180,46.985176282051285,GM,False,False,clique 2
+210,46.80488782051282,GM,False,False,clique 2
+240,46.9150641025641,GM,False,False,clique 2
+270,46.81490384615385,GM,False,False,clique 2
+300,46.86498397435897,GM,False,False,clique 2
+330,47.12540064102564,GM,False,False,clique 2
+360,47.135416666666664,GM,False,False,clique 2
+390,46.93509615384615,GM,False,False,clique 2
+420,47.165464743589745,GM,False,False,clique 2
+450,47.14543269230769,GM,False,False,clique 2
+480,47.24559294871795,GM,False,False,clique 2
+510,47.21554487179487,GM,False,False,clique 2
+540,47.23557692307692,GM,False,False,clique 2
+570,47.2255608974359,GM,False,False,clique 2
+600,47.21554487179487,GM,False,False,clique 2
+630,47.21554487179487,GM,False,False,clique 2
+660,47.2255608974359,GM,False,False,clique 2
+690,47.25560897435897,GM,False,False,clique 2
+720,47.23557692307692,GM,False,False,clique 2
+750,47.24559294871795,GM,False,False,clique 2
+780,47.21554487179487,GM,False,False,clique 2
+810,47.2255608974359,GM,False,False,clique 2
+840,47.2255608974359,GM,False,False,clique 2
+870,47.23557692307692,GM,False,False,clique 2
+0,79.01642628205128,GM,False,True,global
+30,84.86578525641026,GM,False,True,global
+60,86.22796474358974,GM,False,True,global
+90,87.05929487179488,GM,False,True,global
+120,87.0292467948718,GM,False,True,global
+150,88.0108173076923,GM,False,True,global
+180,88.82211538461539,GM,False,True,global
+210,88.06089743589743,GM,False,True,global
+240,88.43149038461539,GM,False,True,global
+270,87.90064102564102,GM,False,True,global
+300,87.36979166666667,GM,False,True,global
+330,89.20272435897436,GM,False,True,global
+360,88.9823717948718,GM,False,True,global
+390,89.79366987179488,GM,False,True,global
+420,89.97395833333333,GM,False,True,global
+450,89.48317307692308,GM,False,True,global
+480,89.26282051282051,GM,False,True,global
+510,89.16266025641026,GM,False,True,global
+540,89.17267628205128,GM,False,True,global
+570,89.23277243589743,GM,False,True,global
+600,89.3329326923077,GM,False,True,global
+630,89.55328525641026,GM,False,True,global
+660,89.75360576923077,GM,False,True,global
+690,89.97395833333333,GM,False,True,global
+720,90.1141826923077,GM,False,True,global
+750,90.32451923076923,GM,False,True,global
+780,90.53485576923077,GM,False,True,global
+810,90.65504807692308,GM,False,True,global
+840,90.69511217948718,GM,False,True,global
+870,90.7051282051282,GM,False,True,global
+0,49.30889423076923,GM,False,True,clique 1
+30,49.87980769230769,GM,False,True,clique 1
+60,50.130208333333336,GM,False,True,clique 1
+90,50.37059294871795,GM,False,True,clique 1
+120,50.42067307692308,GM,False,True,clique 1
+150,50.56089743589744,GM,False,True,clique 1
+180,50.500801282051285,GM,False,True,clique 1
+210,50.500801282051285,GM,False,True,clique 1
+240,50.62099358974359,GM,False,True,clique 1
+270,50.69110576923077,GM,False,True,clique 1
+300,50.60096153846154,GM,False,True,clique 1
+330,50.62099358974359,GM,False,True,clique 1
+360,50.681089743589745,GM,False,True,clique 1
+390,50.671073717948715,GM,False,True,clique 1
+420,50.72115384615385,GM,False,True,clique 1
+450,50.72115384615385,GM,False,True,clique 1
+480,50.73116987179487,GM,False,True,clique 1
+510,50.73116987179487,GM,False,True,clique 1
+540,50.73116987179487,GM,False,True,clique 1
+570,50.73116987179487,GM,False,True,clique 1
+600,50.73116987179487,GM,False,True,clique 1
+630,50.72115384615385,GM,False,True,clique 1
+660,50.71113782051282,GM,False,True,clique 1
+690,50.701121794871796,GM,False,True,clique 1
+720,50.69110576923077,GM,False,True,clique 1
+750,50.701121794871796,GM,False,True,clique 1
+780,50.76121794871795,GM,False,True,clique 1
+810,50.84134615384615,GM,False,True,clique 1
+840,51.02163461538461,GM,False,True,clique 1
+870,51.20192307692308,GM,False,True,clique 1
+0,44.240785256410255,GM,False,True,clique 2
+30,45.76322115384615,GM,False,True,clique 2
+60,46.15384615384615,GM,False,True,clique 2
+90,46.4443108974359,GM,False,True,clique 2
+120,46.65464743589744,GM,False,True,clique 2
+150,46.9150641025641,GM,False,True,clique 2
+180,46.764823717948715,GM,False,True,clique 2
+210,47.005208333333336,GM,False,True,clique 2
+240,46.84495192307692,GM,False,True,clique 2
+270,46.975160256410255,GM,False,True,clique 2
+300,46.93509615384615,GM,False,True,clique 2
+330,47.165464743589745,GM,False,True,clique 2
+360,47.19551282051282,GM,False,True,clique 2
+390,46.90504807692308,GM,False,True,clique 2
+420,47.165464743589745,GM,False,True,clique 2
+450,47.155448717948715,GM,False,True,clique 2
+480,47.20552884615385,GM,False,True,clique 2
+510,47.185496794871796,GM,False,True,clique 2
+540,47.185496794871796,GM,False,True,clique 2
+570,47.17548076923077,GM,False,True,clique 2
+600,47.14543269230769,GM,False,True,clique 2
+630,47.14543269230769,GM,False,True,clique 2
+660,47.135416666666664,GM,False,True,clique 2
+690,47.135416666666664,GM,False,True,clique 2
+720,47.14543269230769,GM,False,True,clique 2
+750,47.135416666666664,GM,False,True,clique 2
+780,47.17548076923077,GM,False,True,clique 2
+810,47.19551282051282,GM,False,True,clique 2
+840,47.20552884615385,GM,False,True,clique 2
+870,47.28565705128205,GM,False,True,clique 2
+0,77.82451923076923,MOZI,False,False,global
+30,82.09134615384616,MOZI,False,False,global
+60,82.84254807692308,MOZI,False,False,global
+90,83.30328525641026,MOZI,False,False,global
+120,83.39342948717949,MOZI,False,False,global
+150,83.74399038461539,MOZI,False,False,global
+180,84.40504807692308,MOZI,False,False,global
+210,84.54527243589743,MOZI,False,False,global
+240,85.70713141025641,MOZI,False,False,global
+270,85.61698717948718,MOZI,False,False,global
+300,85.78725961538461,MOZI,False,False,global
+330,86.328125,MOZI,False,False,global
+360,86.46834935897436,MOZI,False,False,global
+390,86.5985576923077,MOZI,False,False,global
+420,86.7988782051282,MOZI,False,False,global
+450,86.97916666666667,MOZI,False,False,global
+480,87.34975961538461,MOZI,False,False,global
+510,86.80889423076923,MOZI,False,False,global
+540,87.3798076923077,MOZI,False,False,global
+570,87.73036858974359,MOZI,False,False,global
+600,86.7588141025641,MOZI,False,False,global
+630,87.67027243589743,MOZI,False,False,global
+660,87.72035256410257,MOZI,False,False,global
+690,87.21955128205128,MOZI,False,False,global
+720,87.90064102564102,MOZI,False,False,global
+750,87.890625,MOZI,False,False,global
+780,87.36979166666667,MOZI,False,False,global
+810,87.90064102564102,MOZI,False,False,global
+840,87.83052884615384,MOZI,False,False,global
+870,87.74038461538461,MOZI,False,False,global
+0,48.50761217948718,MOZI,False,False,clique 1
+30,49.48918269230769,MOZI,False,False,clique 1
+60,49.61939102564103,MOZI,False,False,clique 1
+90,49.79967948717949,MOZI,False,False,clique 1
+120,49.92988782051282,MOZI,False,False,clique 1
+150,50.100160256410255,MOZI,False,False,clique 1
+180,50.12019230769231,MOZI,False,False,clique 1
+210,50.18028846153846,MOZI,False,False,clique 1
+240,50.24038461538461,MOZI,False,False,clique 1
+270,50.32051282051282,MOZI,False,False,clique 1
+300,50.3505608974359,MOZI,False,False,clique 1
+330,50.4306891025641,MOZI,False,False,clique 1
+360,50.38060897435897,MOZI,False,False,clique 1
+390,50.42067307692308,MOZI,False,False,clique 1
+420,50.46073717948718,MOZI,False,False,clique 1
+450,50.44070512820513,MOZI,False,False,clique 1
+480,50.44070512820513,MOZI,False,False,clique 1
+510,50.53084935897436,MOZI,False,False,clique 1
+540,50.490785256410255,MOZI,False,False,clique 1
+570,50.55088141025641,MOZI,False,False,clique 1
+600,50.55088141025641,MOZI,False,False,clique 1
+630,50.54086538461539,MOZI,False,False,clique 1
+660,50.60096153846154,MOZI,False,False,clique 1
+690,50.59094551282051,MOZI,False,False,clique 1
+720,50.61097756410256,MOZI,False,False,clique 1
+750,50.63100961538461,MOZI,False,False,clique 1
+780,50.62099358974359,MOZI,False,False,clique 1
+810,50.61097756410256,MOZI,False,False,clique 1
+840,50.61097756410256,MOZI,False,False,clique 1
+870,50.66105769230769,MOZI,False,False,clique 1
+0,42.62820512820513,MOZI,False,False,clique 2
+30,44.44110576923077,MOZI,False,False,clique 2
+60,44.841746794871796,MOZI,False,False,clique 2
+90,45.24238782051282,MOZI,False,False,clique 2
+120,45.3125,MOZI,False,False,clique 2
+150,45.69310897435897,MOZI,False,False,clique 2
+180,46.013621794871796,MOZI,False,False,clique 2
+210,46.14383012820513,MOZI,False,False,clique 2
+240,46.25400641025641,MOZI,False,False,clique 2
+270,46.32411858974359,MOZI,False,False,clique 2
+300,46.374198717948715,MOZI,False,False,clique 2
+330,46.54447115384615,MOZI,False,False,clique 2
+360,46.55448717948718,MOZI,False,False,clique 2
+390,46.60456730769231,MOZI,False,False,clique 2
+420,46.70472756410256,MOZI,False,False,clique 2
+450,46.764823717948715,MOZI,False,False,clique 2
+480,46.794871794871796,MOZI,False,False,clique 2
+510,46.82491987179487,MOZI,False,False,clique 2
+540,46.94511217948718,MOZI,False,False,clique 2
+570,46.955128205128204,MOZI,False,False,clique 2
+600,46.86498397435897,MOZI,False,False,clique 2
+630,47.02524038461539,MOZI,False,False,clique 2
+660,47.05528846153846,MOZI,False,False,clique 2
+690,47.06530448717949,MOZI,False,False,clique 2
+720,47.06530448717949,MOZI,False,False,clique 2
+750,47.11538461538461,MOZI,False,False,clique 2
+780,47.12540064102564,MOZI,False,False,clique 2
+810,47.135416666666664,MOZI,False,False,clique 2
+840,47.165464743589745,MOZI,False,False,clique 2
+870,47.2255608974359,MOZI,False,False,clique 2
+0,77.78445512820512,MOZI,False,True,global
+30,81.9511217948718,MOZI,False,True,global
+60,82.87259615384616,MOZI,False,True,global
+90,83.2431891025641,MOZI,False,True,global
+120,83.48357371794872,MOZI,False,True,global
+150,83.7139423076923,MOZI,False,True,global
+180,84.44511217948718,MOZI,False,True,global
+210,84.71554487179488,MOZI,False,True,global
+240,85.69711538461539,MOZI,False,True,global
+270,85.6270032051282,MOZI,False,True,global
+300,85.92748397435898,MOZI,False,True,global
+330,86.4483173076923,MOZI,False,True,global
+360,86.61858974358974,MOZI,False,True,global
+390,86.55849358974359,MOZI,False,True,global
+420,86.85897435897436,MOZI,False,True,global
+450,87.03926282051282,MOZI,False,True,global
+480,87.48998397435898,MOZI,False,True,global
+510,86.85897435897436,MOZI,False,True,global
+540,87.44991987179488,MOZI,False,True,global
+570,87.70032051282051,MOZI,False,True,global
+600,87.08934294871794,MOZI,False,True,global
+630,87.60016025641026,MOZI,False,True,global
+660,87.86057692307692,MOZI,False,True,global
+690,87.2295673076923,MOZI,False,True,global
+720,87.71033653846153,MOZI,False,True,global
+750,87.68028846153847,MOZI,False,True,global
+780,87.31971153846153,MOZI,False,True,global
+810,87.87059294871794,MOZI,False,True,global
+840,87.66025641025641,MOZI,False,True,global
+870,87.66025641025641,MOZI,False,True,global
+0,48.48758012820513,MOZI,False,True,clique 1
+30,49.48918269230769,MOZI,False,True,clique 1
+60,49.67948717948718,MOZI,False,True,clique 1
+90,49.81971153846154,MOZI,False,True,clique 1
+120,49.899839743589745,MOZI,False,True,clique 1
+150,50.05008012820513,MOZI,False,True,clique 1
+180,50.110176282051285,MOZI,False,True,clique 1
+210,50.18028846153846,MOZI,False,True,clique 1
+240,50.260416666666664,MOZI,False,True,clique 1
+270,50.290464743589745,MOZI,False,True,clique 1
+300,50.33052884615385,MOZI,False,True,clique 1
+330,50.38060897435897,MOZI,False,True,clique 1
+360,50.37059294871795,MOZI,False,True,clique 1
+390,50.4306891025641,MOZI,False,True,clique 1
+420,50.490785256410255,MOZI,False,True,clique 1
+450,50.44070512820513,MOZI,False,True,clique 1
+480,50.4306891025641,MOZI,False,True,clique 1
+510,50.51081730769231,MOZI,False,True,clique 1
+540,50.500801282051285,MOZI,False,True,clique 1
+570,50.54086538461539,MOZI,False,True,clique 1
+600,50.55088141025641,MOZI,False,True,clique 1
+630,50.520833333333336,MOZI,False,True,clique 1
+660,50.56089743589744,MOZI,False,True,clique 1
+690,50.59094551282051,MOZI,False,True,clique 1
+720,50.58092948717949,MOZI,False,True,clique 1
+750,50.64102564102564,MOZI,False,True,clique 1
+780,50.63100961538461,MOZI,False,True,clique 1
+810,50.61097756410256,MOZI,False,True,clique 1
+840,50.61097756410256,MOZI,False,True,clique 1
+870,50.651041666666664,MOZI,False,True,clique 1
+0,42.71834935897436,MOZI,False,True,clique 2
+30,44.451121794871796,MOZI,False,True,clique 2
+60,44.811698717948715,MOZI,False,True,clique 2
+90,45.24238782051282,MOZI,False,True,clique 2
+120,45.30248397435897,MOZI,False,True,clique 2
+150,45.572916666666664,MOZI,False,True,clique 2
+180,46.00360576923077,MOZI,False,True,clique 2
+210,46.12379807692308,MOZI,False,True,clique 2
+240,46.23397435897436,MOZI,False,True,clique 2
+270,46.384214743589745,MOZI,False,True,clique 2
+300,46.384214743589745,MOZI,False,True,clique 2
+330,46.53445512820513,MOZI,False,True,clique 2
+360,46.54447115384615,MOZI,False,True,clique 2
+390,46.594551282051285,MOZI,False,True,clique 2
+420,46.66466346153846,MOZI,False,True,clique 2
+450,46.68469551282051,MOZI,False,True,clique 2
+480,46.78485576923077,MOZI,False,True,clique 2
+510,46.85496794871795,MOZI,False,True,clique 2
+540,46.94511217948718,MOZI,False,True,clique 2
+570,46.93509615384615,MOZI,False,True,clique 2
+600,46.8349358974359,MOZI,False,True,clique 2
+630,47.03525641025641,MOZI,False,True,clique 2
+660,47.005208333333336,MOZI,False,True,clique 2
+690,47.05528846153846,MOZI,False,True,clique 2
+720,47.08533653846154,MOZI,False,True,clique 2
+750,47.11538461538461,MOZI,False,True,clique 2
+780,47.09535256410256,MOZI,False,True,clique 2
+810,47.14543269230769,MOZI,False,True,clique 2
+840,47.14543269230769,MOZI,False,True,clique 2
+870,47.19551282051282,MOZI,False,True,clique 2
+0,78.23517628205128,TM,False,False,global
+30,84.09455128205128,TM,False,False,global
+60,85.36658653846153,TM,False,False,global
+90,85.64703525641026,TM,False,False,global
+120,86.22796474358974,TM,False,False,global
+150,86.9891826923077,TM,False,False,global
+180,86.49839743589743,TM,False,False,global
+210,85.99759615384616,TM,False,False,global
+240,85.13621794871794,TM,False,False,global
+270,85.09615384615384,TM,False,False,global
+300,85.56690705128206,TM,False,False,global
+330,86.2880608974359,TM,False,False,global
+360,87.36979166666667,TM,False,False,global
+390,88.25120192307692,TM,False,False,global
+420,87.60016025641026,TM,False,False,global
+450,86.88902243589743,TM,False,False,global
+480,85.86738782051282,TM,False,False,global
+510,85.95753205128206,TM,False,False,global
+540,86.77884615384616,TM,False,False,global
+570,87.1494391025641,TM,False,False,global
+600,86.88902243589743,TM,False,False,global
+630,86.93910256410257,TM,False,False,global
+660,86.92908653846153,TM,False,False,global
+690,86.89903846153847,TM,False,False,global
+720,86.89903846153847,TM,False,False,global
+750,86.88902243589743,TM,False,False,global
+780,86.92908653846153,TM,False,False,global
+810,86.90905448717949,TM,False,False,global
+840,86.89903846153847,TM,False,False,global
+870,86.88902243589743,TM,False,False,global
+0,49.27884615384615,TM,False,False,clique 1
+30,49.78966346153846,TM,False,False,clique 1
+60,50.14022435897436,TM,False,False,clique 1
+90,50.37059294871795,TM,False,False,clique 1
+120,50.45072115384615,TM,False,False,clique 1
+150,50.520833333333336,TM,False,False,clique 1
+180,50.500801282051285,TM,False,False,clique 1
+210,50.60096153846154,TM,False,False,clique 1
+240,50.66105769230769,TM,False,False,clique 1
+270,50.63100961538461,TM,False,False,clique 1
+300,50.63100961538461,TM,False,False,clique 1
+330,50.66105769230769,TM,False,False,clique 1
+360,50.71113782051282,TM,False,False,clique 1
+390,50.71113782051282,TM,False,False,clique 1
+420,50.71113782051282,TM,False,False,clique 1
+450,50.72115384615385,TM,False,False,clique 1
+480,50.72115384615385,TM,False,False,clique 1
+510,50.72115384615385,TM,False,False,clique 1
+540,50.72115384615385,TM,False,False,clique 1
+570,50.72115384615385,TM,False,False,clique 1
+600,50.72115384615385,TM,False,False,clique 1
+630,50.72115384615385,TM,False,False,clique 1
+660,50.73116987179487,TM,False,False,clique 1
+690,50.73116987179487,TM,False,False,clique 1
+720,50.73116987179487,TM,False,False,clique 1
+750,50.73116987179487,TM,False,False,clique 1
+780,50.73116987179487,TM,False,False,clique 1
+810,50.73116987179487,TM,False,False,clique 1
+840,50.73116987179487,TM,False,False,clique 1
+870,50.73116987179487,TM,False,False,clique 1
+0,44.220753205128204,TM,False,False,clique 2
+30,45.76322115384615,TM,False,False,clique 2
+60,46.15384615384615,TM,False,False,clique 2
+90,46.45432692307692,TM,False,False,clique 2
+120,46.73477564102564,TM,False,False,clique 2
+150,46.764823717948715,TM,False,False,clique 2
+180,46.94511217948718,TM,False,False,clique 2
+210,46.78485576923077,TM,False,False,clique 2
+240,46.85496794871795,TM,False,False,clique 2
+270,46.78485576923077,TM,False,False,clique 2
+300,47.02524038461539,TM,False,False,clique 2
+330,47.03525641025641,TM,False,False,clique 2
+360,47.17548076923077,TM,False,False,clique 2
+390,46.55448717948718,TM,False,False,clique 2
+420,47.20552884615385,TM,False,False,clique 2
+450,47.25560897435897,TM,False,False,clique 2
+480,47.17548076923077,TM,False,False,clique 2
+510,47.19551282051282,TM,False,False,clique 2
+540,47.25560897435897,TM,False,False,clique 2
+570,47.28565705128205,TM,False,False,clique 2
+600,47.27564102564103,TM,False,False,clique 2
+630,47.28565705128205,TM,False,False,clique 2
+660,47.28565705128205,TM,False,False,clique 2
+690,47.27564102564103,TM,False,False,clique 2
+720,47.27564102564103,TM,False,False,clique 2
+750,47.27564102564103,TM,False,False,clique 2
+780,47.27564102564103,TM,False,False,clique 2
+810,47.27564102564103,TM,False,False,clique 2
+840,47.27564102564103,TM,False,False,clique 2
+870,47.27564102564103,TM,False,False,clique 2
+0,78.01482371794872,TM,False,True,global
+30,83.9443108974359,TM,False,True,global
+60,84.65544871794872,TM,False,True,global
+90,85.39663461538461,TM,False,True,global
+120,85.64703525641026,TM,False,True,global
+150,86.34815705128206,TM,False,True,global
+180,87.07932692307692,TM,False,True,global
+210,86.5985576923077,TM,False,True,global
+240,86.6786858974359,TM,False,True,global
+270,85.26642628205128,TM,False,True,global
+300,85.8173076923077,TM,False,True,global
+330,86.69871794871794,TM,False,True,global
+360,86.7988782051282,TM,False,True,global
+390,88.35136217948718,TM,False,True,global
+420,88.02083333333333,TM,False,True,global
+450,86.62860576923077,TM,False,True,global
+480,86.70873397435898,TM,False,True,global
+510,86.52844551282051,TM,False,True,global
+540,86.86899038461539,TM,False,True,global
+570,87.4198717948718,TM,False,True,global
+600,87.63020833333333,TM,False,True,global
+630,87.61017628205128,TM,False,True,global
+660,87.63020833333333,TM,False,True,global
+690,87.61017628205128,TM,False,True,global
+720,87.63020833333333,TM,False,True,global
+750,87.63020833333333,TM,False,True,global
+780,87.64022435897436,TM,False,True,global
+810,87.61017628205128,TM,False,True,global
+840,87.6201923076923,TM,False,True,global
+870,87.59014423076923,TM,False,True,global
+0,49.27884615384615,TM,False,True,clique 1
+30,49.87980769230769,TM,False,True,clique 1
+60,50.15024038461539,TM,False,True,clique 1
+90,50.3505608974359,TM,False,True,clique 1
+120,50.45072115384615,TM,False,True,clique 1
+150,50.51081730769231,TM,False,True,clique 1
+180,50.48076923076923,TM,False,True,clique 1
+210,50.46073717948718,TM,False,True,clique 1
+240,50.58092948717949,TM,False,True,clique 1
+270,50.681089743589745,TM,False,True,clique 1
+300,50.651041666666664,TM,False,True,clique 1
+330,50.66105769230769,TM,False,True,clique 1
+360,50.671073717948715,TM,False,True,clique 1
+390,50.7411858974359,TM,False,True,clique 1
+420,50.7411858974359,TM,False,True,clique 1
+450,50.72115384615385,TM,False,True,clique 1
+480,50.72115384615385,TM,False,True,clique 1
+510,50.7411858974359,TM,False,True,clique 1
+540,50.75120192307692,TM,False,True,clique 1
+570,50.75120192307692,TM,False,True,clique 1
+600,50.75120192307692,TM,False,True,clique 1
+630,50.75120192307692,TM,False,True,clique 1
+660,50.75120192307692,TM,False,True,clique 1
+690,50.75120192307692,TM,False,True,clique 1
+720,50.75120192307692,TM,False,True,clique 1
+750,50.75120192307692,TM,False,True,clique 1
+780,50.75120192307692,TM,False,True,clique 1
+810,50.75120192307692,TM,False,True,clique 1
+840,50.75120192307692,TM,False,True,clique 1
+870,50.75120192307692,TM,False,True,clique 1
+0,44.15064102564103,TM,False,True,clique 2
+30,45.75320512820513,TM,False,True,clique 2
+60,46.10376602564103,TM,False,True,clique 2
+90,46.39423076923077,TM,False,True,clique 2
+120,46.614583333333336,TM,False,True,clique 2
+150,46.72475961538461,TM,False,True,clique 2
+180,46.80488782051282,TM,False,True,clique 2
+210,46.82491987179487,TM,False,True,clique 2
+240,46.90504807692308,TM,False,True,clique 2
+270,46.9150641025641,TM,False,True,clique 2
+300,46.96514423076923,TM,False,True,clique 2
+330,47.155448717948715,TM,False,True,clique 2
+360,47.14543269230769,TM,False,True,clique 2
+390,46.78485576923077,TM,False,True,clique 2
+420,46.96514423076923,TM,False,True,clique 2
+450,47.06530448717949,TM,False,True,clique 2
+480,47.23557692307692,TM,False,True,clique 2
+510,47.23557692307692,TM,False,True,clique 2
+540,47.23557692307692,TM,False,True,clique 2
+570,47.2255608974359,TM,False,True,clique 2
+600,47.27564102564103,TM,False,True,clique 2
+630,47.29567307692308,TM,False,True,clique 2
+660,47.29567307692308,TM,False,True,clique 2
+690,47.3056891025641,TM,False,True,clique 2
+720,47.29567307692308,TM,False,True,clique 2
+750,47.28565705128205,TM,False,True,clique 2
+780,47.28565705128205,TM,False,True,clique 2
+810,47.28565705128205,TM,False,True,clique 2
+840,47.28565705128205,TM,False,True,clique 2
+870,47.28565705128205,TM,False,True,clique 2
+0,80.078125,SCClip,False,False,global
+30,86.16786858974359,SCClip,False,False,global
+60,86.96915064102564,SCClip,False,False,global
+90,88.05088141025641,SCClip,False,False,global
+120,89.0625,SCClip,False,False,global
+150,89.70352564102564,SCClip,False,False,global
+180,90.18429487179488,SCClip,False,False,global
+210,90.61498397435898,SCClip,False,False,global
+240,90.73517628205128,SCClip,False,False,global
+270,91.38621794871794,SCClip,False,False,global
+300,90.88541666666667,SCClip,False,False,global
+330,90.49479166666667,SCClip,False,False,global
+360,91.50641025641026,SCClip,False,False,global
+390,91.63661858974359,SCClip,False,False,global
+420,92.42788461538461,SCClip,False,False,global
+450,92.40785256410257,SCClip,False,False,global
+480,92.34775641025641,SCClip,False,False,global
+510,92.21754807692308,SCClip,False,False,global
+540,91.90705128205128,SCClip,False,False,global
+570,92.89863782051282,SCClip,False,False,global
+600,92.8485576923077,SCClip,False,False,global
+630,93.2792467948718,SCClip,False,False,global
+660,93.37940705128206,SCClip,False,False,global
+690,93.38942307692308,SCClip,False,False,global
+720,93.3994391025641,SCClip,False,False,global
+750,93.37940705128206,SCClip,False,False,global
+780,93.51963141025641,SCClip,False,False,global
+810,93.55969551282051,SCClip,False,False,global
+840,93.64983974358974,SCClip,False,False,global
+870,93.7099358974359,SCClip,False,False,global
+0,49.33894230769231,SCClip,False,False,clique 1
+30,49.919871794871796,SCClip,False,False,clique 1
+60,49.90985576923077,SCClip,False,False,clique 1
+90,50.310496794871796,SCClip,False,False,clique 1
+120,50.40064102564103,SCClip,False,False,clique 1
+150,50.84134615384615,SCClip,False,False,clique 1
+180,52.033253205128204,SCClip,False,False,clique 1
+210,53.53565705128205,SCClip,False,False,clique 1
+240,54.89783653846154,SCClip,False,False,clique 1
+270,55.759214743589745,SCClip,False,False,clique 1
+300,56.47035256410256,SCClip,False,False,clique 1
+330,57.54206730769231,SCClip,False,False,clique 1
+360,58.14302884615385,SCClip,False,False,clique 1
+390,57.95272435897436,SCClip,False,False,clique 1
+420,58.66386217948718,SCClip,False,False,clique 1
+450,59.31490384615385,SCClip,False,False,clique 1
+480,60.96754807692308,SCClip,False,False,clique 1
+510,62.189503205128204,SCClip,False,False,clique 1
+540,61.44831730769231,SCClip,False,False,clique 1
+570,59.75560897435897,SCClip,False,False,clique 1
+600,62.01923076923077,SCClip,False,False,clique 1
+630,64.32291666666667,SCClip,False,False,clique 1
+660,65.2744391025641,SCClip,False,False,clique 1
+690,66.62660256410257,SCClip,False,False,clique 1
+720,67.73838141025641,SCClip,False,False,clique 1
+750,68.50961538461539,SCClip,False,False,clique 1
+780,69.2608173076923,SCClip,False,False,clique 1
+810,69.6113782051282,SCClip,False,False,clique 1
+840,70.32251602564102,SCClip,False,False,clique 1
+870,70.7431891025641,SCClip,False,False,clique 1
+0,44.23076923076923,SCClip,False,False,clique 2
+30,45.783253205128204,SCClip,False,False,clique 2
+60,46.30408653846154,SCClip,False,False,clique 2
+90,46.55448717948718,SCClip,False,False,clique 2
+120,46.594551282051285,SCClip,False,False,clique 2
+150,46.90504807692308,SCClip,False,False,clique 2
+180,47.916666666666664,SCClip,False,False,clique 2
+210,48.7880608974359,SCClip,False,False,clique 2
+240,49.93990384615385,SCClip,False,False,clique 2
+270,50.671073717948715,SCClip,False,False,clique 2
+300,51.40224358974359,SCClip,False,False,clique 2
+330,52.64423076923077,SCClip,False,False,clique 2
+360,53.34535256410256,SCClip,False,False,clique 2
+390,54.296875,SCClip,False,False,clique 2
+420,55.64903846153846,SCClip,False,False,clique 2
+450,57.80248397435897,SCClip,False,False,clique 2
+480,59.92588141025641,SCClip,False,False,clique 2
+510,59.18469551282051,SCClip,False,False,clique 2
+540,61.25801282051282,SCClip,False,False,clique 2
+570,64.43309294871794,SCClip,False,False,clique 2
+600,65.3545673076923,SCClip,False,False,clique 2
+630,66.49639423076923,SCClip,False,False,clique 2
+660,65.8954326923077,SCClip,False,False,clique 2
+690,66.33613782051282,SCClip,False,False,clique 2
+720,68.09895833333333,SCClip,False,False,clique 2
+750,68.95032051282051,SCClip,False,False,clique 2
+780,69.94190705128206,SCClip,False,False,clique 2
+810,70.57291666666667,SCClip,False,False,clique 2
+840,71.12379807692308,SCClip,False,False,clique 2
+870,71.53445512820512,SCClip,False,False,clique 2
+0,81.09975961538461,SCClip,False,True,global
+30,86.85897435897436,SCClip,False,True,global
+60,87.98076923076923,SCClip,False,True,global
+90,88.9423076923077,SCClip,False,True,global
+120,89.67347756410257,SCClip,False,True,global
+150,90.25440705128206,SCClip,False,True,global
+180,90.36458333333333,SCClip,False,True,global
+210,90.30448717948718,SCClip,False,True,global
+240,91.1358173076923,SCClip,False,True,global
+270,90.76522435897436,SCClip,False,True,global
+300,91.55649038461539,SCClip,False,True,global
+330,91.90705128205128,SCClip,False,True,global
+360,92.20753205128206,SCClip,False,True,global
+390,92.76842948717949,SCClip,False,True,global
+420,92.85857371794872,SCClip,False,True,global
+450,92.83854166666667,SCClip,False,True,global
+480,92.80849358974359,SCClip,False,True,global
+510,92.77844551282051,SCClip,False,True,global
+540,93.38942307692308,SCClip,False,True,global
+570,93.359375,SCClip,False,True,global
+600,93.52964743589743,SCClip,False,True,global
+630,93.53966346153847,SCClip,False,True,global
+660,93.56971153846153,SCClip,False,True,global
+690,93.60977564102564,SCClip,False,True,global
+720,93.60977564102564,SCClip,False,True,global
+750,93.68990384615384,SCClip,False,True,global
+780,93.71995192307692,SCClip,False,True,global
+810,93.73998397435898,SCClip,False,True,global
+840,93.73998397435898,SCClip,False,True,global
+870,93.78004807692308,SCClip,False,True,global
+0,49.36899038461539,SCClip,False,True,clique 1
+30,50.01001602564103,SCClip,False,True,clique 1
+60,50.05008012820513,SCClip,False,True,clique 1
+90,52.70432692307692,SCClip,False,True,clique 1
+120,54.216746794871796,SCClip,False,True,clique 1
+150,55.44871794871795,SCClip,False,True,clique 1
+180,56.79086538461539,SCClip,False,True,clique 1
+210,58.22315705128205,SCClip,False,True,clique 1
+240,60.03605769230769,SCClip,False,True,clique 1
+270,60.15625,SCClip,False,True,clique 1
+300,59.85576923076923,SCClip,False,True,clique 1
+330,60.90745192307692,SCClip,False,True,clique 1
+360,64.59334935897436,SCClip,False,True,clique 1
+390,63.33133012820513,SCClip,False,True,clique 1
+420,65.79527243589743,SCClip,False,True,clique 1
+450,67.52804487179488,SCClip,False,True,clique 1
+480,68.94030448717949,SCClip,False,True,clique 1
+510,69.83173076923077,SCClip,False,True,clique 1
+540,70.10216346153847,SCClip,False,True,clique 1
+570,71.42427884615384,SCClip,False,True,clique 1
+600,71.90504807692308,SCClip,False,True,clique 1
+630,72.55608974358974,SCClip,False,True,clique 1
+660,73.20713141025641,SCClip,False,True,clique 1
+690,73.84815705128206,SCClip,False,True,clique 1
+720,74.45913461538461,SCClip,False,True,clique 1
+750,74.86979166666667,SCClip,False,True,clique 1
+780,75.23036858974359,SCClip,False,True,clique 1
+810,75.83133012820512,SCClip,False,True,clique 1
+840,76.15184294871794,SCClip,False,True,clique 1
+870,76.5625,SCClip,False,True,clique 1
+0,44.250801282051285,SCClip,False,True,clique 2
+30,45.89342948717949,SCClip,False,True,clique 2
+60,46.75480769230769,SCClip,False,True,clique 2
+90,49.529246794871796,SCClip,False,True,clique 2
+120,51.98317307692308,SCClip,False,True,clique 2
+150,54.88782051282051,SCClip,False,True,clique 2
+180,57.111378205128204,SCClip,False,True,clique 2
+210,56.931089743589745,SCClip,False,True,clique 2
+240,55.09815705128205,SCClip,False,True,clique 2
+270,57.64222756410256,SCClip,False,True,clique 2
+300,58.83413461538461,SCClip,False,True,clique 2
+330,56.510416666666664,SCClip,False,True,clique 2
+360,59.22475961538461,SCClip,False,True,clique 2
+390,59.485176282051285,SCClip,False,True,clique 2
+420,64.8036858974359,SCClip,False,True,clique 2
+450,68.2391826923077,SCClip,False,True,clique 2
+480,66.07572115384616,SCClip,False,True,clique 2
+510,68.16907051282051,SCClip,False,True,clique 2
+540,70.79326923076923,SCClip,False,True,clique 2
+570,71.47435897435898,SCClip,False,True,clique 2
+600,73.40745192307692,SCClip,False,True,clique 2
+630,74.28886217948718,SCClip,False,True,clique 2
+660,74.40905448717949,SCClip,False,True,clique 2
+690,75.4306891025641,SCClip,False,True,clique 2
+720,75.81129807692308,SCClip,False,True,clique 2
+750,76.33213141025641,SCClip,False,True,clique 2
+780,76.70272435897436,SCClip,False,True,clique 2
+810,76.9130608974359,SCClip,False,True,clique 2
+840,77.28365384615384,SCClip,False,True,clique 2
+870,77.58413461538461,SCClip,False,True,clique 2
+0,80.69911858974359,Gossip,True,False,global
+30,86.90905448717949,Gossip,True,False,global
+60,87.82051282051282,Gossip,True,False,global
+90,88.69190705128206,Gossip,True,False,global
+120,89.15264423076923,Gossip,True,False,global
+150,89.78365384615384,Gossip,True,False,global
+180,89.84375,Gossip,True,False,global
+210,89.9238782051282,Gossip,True,False,global
+240,90.69511217948718,Gossip,True,False,global
+270,90.64503205128206,Gossip,True,False,global
+300,91.015625,Gossip,True,False,global
+330,91.55649038461539,Gossip,True,False,global
+360,91.99719551282051,Gossip,True,False,global
+390,92.28766025641026,Gossip,True,False,global
+420,92.48798076923077,Gossip,True,False,global
+450,92.12740384615384,Gossip,True,False,global
+480,92.55809294871794,Gossip,True,False,global
+510,92.79847756410257,Gossip,True,False,global
+540,92.6983173076923,Gossip,True,False,global
+570,92.94871794871794,Gossip,True,False,global
+600,93.0488782051282,Gossip,True,False,global
+630,93.09895833333333,Gossip,True,False,global
+660,93.12900641025641,Gossip,True,False,global
+690,93.22916666666667,Gossip,True,False,global
+720,93.25921474358974,Gossip,True,False,global
+750,93.30929487179488,Gossip,True,False,global
+780,93.12900641025641,Gossip,True,False,global
+810,93.30929487179488,Gossip,True,False,global
+840,92.8886217948718,Gossip,True,False,global
+870,93.28926282051282,Gossip,True,False,global
+0,49.39903846153846,Gossip,True,False,clique 1
+30,49.98998397435897,Gossip,True,False,clique 1
+60,49.75961538461539,Gossip,True,False,clique 1
+90,50.58092948717949,Gossip,True,False,clique 1
+120,52.17347756410256,Gossip,True,False,clique 1
+150,53.52564102564103,Gossip,True,False,clique 1
+180,54.52724358974359,Gossip,True,False,clique 1
+210,55.71915064102564,Gossip,True,False,clique 1
+240,56.350160256410255,Gossip,True,False,clique 1
+270,57.75240384615385,Gossip,True,False,clique 1
+300,59.07451923076923,Gossip,True,False,clique 1
+330,59.23477564102564,Gossip,True,False,clique 1
+360,61.608573717948715,Gossip,True,False,clique 1
+390,59.82572115384615,Gossip,True,False,clique 1
+420,60.94751602564103,Gossip,True,False,clique 1
+450,62.70032051282051,Gossip,True,False,clique 1
+480,63.68189102564103,Gossip,True,False,clique 1
+510,64.453125,Gossip,True,False,clique 1
+540,65.03405448717949,Gossip,True,False,clique 1
+570,66.18589743589743,Gossip,True,False,clique 1
+600,66.55649038461539,Gossip,True,False,clique 1
+630,67.1875,Gossip,True,False,clique 1
+660,68.06891025641026,Gossip,True,False,clique 1
+690,68.61979166666667,Gossip,True,False,clique 1
+720,69.36097756410257,Gossip,True,False,clique 1
+750,69.8417467948718,Gossip,True,False,clique 1
+780,70.42267628205128,Gossip,True,False,clique 1
+810,70.7832532051282,Gossip,True,False,clique 1
+840,71.24399038461539,Gossip,True,False,clique 1
+870,71.9150641025641,Gossip,True,False,clique 1
+0,44.220753205128204,Gossip,True,False,clique 2
+30,45.89342948717949,Gossip,True,False,clique 2
+60,46.36418269230769,Gossip,True,False,clique 2
+90,47.265625,Gossip,True,False,clique 2
+120,49.529246794871796,Gossip,True,False,clique 2
+150,50.93149038461539,Gossip,True,False,clique 2
+180,52.36378205128205,Gossip,True,False,clique 2
+210,53.9463141025641,Gossip,True,False,clique 2
+240,54.36698717948718,Gossip,True,False,clique 2
+270,51.57251602564103,Gossip,True,False,clique 2
+300,53.67588141025641,Gossip,True,False,clique 2
+330,53.99639423076923,Gossip,True,False,clique 2
+360,55.939503205128204,Gossip,True,False,clique 2
+390,59.475160256410255,Gossip,True,False,clique 2
+420,61.46834935897436,Gossip,True,False,clique 2
+450,62.83052884615385,Gossip,True,False,clique 2
+480,60.76722756410256,Gossip,True,False,clique 2
+510,64.54326923076923,Gossip,True,False,clique 2
+540,65.08413461538461,Gossip,True,False,clique 2
+570,65.01402243589743,Gossip,True,False,clique 2
+600,67.20753205128206,Gossip,True,False,clique 2
+630,68.26923076923077,Gossip,True,False,clique 2
+660,68.78004807692308,Gossip,True,False,clique 2
+690,68.58974358974359,Gossip,True,False,clique 2
+720,67.77844551282051,Gossip,True,False,clique 2
+750,66.76682692307692,Gossip,True,False,clique 2
+780,66.0556891025641,Gossip,True,False,clique 2
+810,67.47796474358974,Gossip,True,False,clique 2
+840,67.48798076923077,Gossip,True,False,clique 2
+870,68.19911858974359,Gossip,True,False,clique 2
+0,82.75240384615384,Gossip,True,True,global
+30,86.56850961538461,Gossip,True,True,global
+60,88.3213141025641,Gossip,True,True,global
+90,89.26282051282051,Gossip,True,True,global
+120,89.99399038461539,Gossip,True,True,global
+150,90.16426282051282,Gossip,True,True,global
+180,90.17427884615384,Gossip,True,True,global
+210,90.78525641025641,Gossip,True,True,global
+240,90.60496794871794,Gossip,True,True,global
+270,91.22596153846153,Gossip,True,True,global
+300,91.66666666666667,Gossip,True,True,global
+330,91.86698717948718,Gossip,True,True,global
+360,92.0673076923077,Gossip,True,True,global
+390,92.02724358974359,Gossip,True,True,global
+420,92.12740384615384,Gossip,True,True,global
+450,92.47796474358974,Gossip,True,True,global
+480,92.1875,Gossip,True,True,global
+510,92.70833333333333,Gossip,True,True,global
+540,92.6181891025641,Gossip,True,True,global
+570,93.09895833333333,Gossip,True,True,global
+600,93.28926282051282,Gossip,True,True,global
+630,93.28926282051282,Gossip,True,True,global
+660,93.36939102564102,Gossip,True,True,global
+690,93.44951923076923,Gossip,True,True,global
+720,93.48958333333333,Gossip,True,True,global
+750,93.54967948717949,Gossip,True,True,global
+780,93.54967948717949,Gossip,True,True,global
+810,93.63982371794872,Gossip,True,True,global
+840,93.76001602564102,Gossip,True,True,global
+870,93.77003205128206,Gossip,True,True,global
+0,49.36899038461539,Gossip,True,True,clique 1
+30,50.06009615384615,Gossip,True,True,clique 1
+60,52.083333333333336,Gossip,True,True,clique 1
+90,54.407051282051285,Gossip,True,True,clique 1
+120,55.568910256410255,Gossip,True,True,clique 1
+150,56.119791666666664,Gossip,True,True,clique 1
+180,57.30168269230769,Gossip,True,True,clique 1
+210,58.35336538461539,Gossip,True,True,clique 1
+240,59.61538461538461,Gossip,True,True,clique 1
+270,60.5068108974359,Gossip,True,True,clique 1
+300,59.60536858974359,Gossip,True,True,clique 1
+330,62.600160256410255,Gossip,True,True,clique 1
+360,63.44150641025641,Gossip,True,True,clique 1
+390,64.05248397435898,Gossip,True,True,clique 1
+420,65.39463141025641,Gossip,True,True,clique 1
+450,67.42788461538461,Gossip,True,True,clique 1
+480,68.09895833333333,Gossip,True,True,clique 1
+510,69.29086538461539,Gossip,True,True,clique 1
+540,70.46274038461539,Gossip,True,True,clique 1
+570,70.65304487179488,Gossip,True,True,clique 1
+600,71.59455128205128,Gossip,True,True,clique 1
+630,72.44591346153847,Gossip,True,True,clique 1
+660,73.10697115384616,Gossip,True,True,clique 1
+690,73.71794871794872,Gossip,True,True,clique 1
+720,74.31891025641026,Gossip,True,True,clique 1
+750,74.79967948717949,Gossip,True,True,clique 1
+780,75.22035256410257,Gossip,True,True,clique 1
+810,75.67107371794872,Gossip,True,True,clique 1
+840,76.07171474358974,Gossip,True,True,clique 1
+870,76.5224358974359,Gossip,True,True,clique 1
+0,44.270833333333336,Gossip,True,True,clique 2
+30,45.91346153846154,Gossip,True,True,clique 2
+60,47.77644230769231,Gossip,True,True,clique 2
+90,50.100160256410255,Gossip,True,True,clique 2
+120,52.20352564102564,Gossip,True,True,clique 2
+150,55.06810897435897,Gossip,True,True,clique 2
+180,56.17988782051282,Gossip,True,True,clique 2
+210,55.02804487179487,Gossip,True,True,clique 2
+240,55.388621794871796,Gossip,True,True,clique 2
+270,58.83413461538461,Gossip,True,True,clique 2
+300,59.90584935897436,Gossip,True,True,clique 2
+330,56.23998397435897,Gossip,True,True,clique 2
+360,59.22475961538461,Gossip,True,True,clique 2
+390,57.552083333333336,Gossip,True,True,clique 2
+420,61.05769230769231,Gossip,True,True,clique 2
+450,61.68870192307692,Gossip,True,True,clique 2
+480,66.12580128205128,Gossip,True,True,clique 2
+510,65.78525641025641,Gossip,True,True,clique 2
+540,65.39463141025641,Gossip,True,True,clique 2
+570,69.24078525641026,Gossip,True,True,clique 2
+600,71.82491987179488,Gossip,True,True,clique 2
+630,72.75641025641026,Gossip,True,True,clique 2
+660,74.32892628205128,Gossip,True,True,clique 2
+690,74.63942307692308,Gossip,True,True,clique 2
+720,75.20032051282051,Gossip,True,True,clique 2
+750,75.61097756410257,Gossip,True,True,clique 2
+780,76.04166666666667,Gossip,True,True,clique 2
+810,76.34214743589743,Gossip,True,True,clique 2
+840,76.70272435897436,Gossip,True,True,clique 2
+870,77.02323717948718,Gossip,True,True,clique 2
+0,78.74599358974359,GM,True,False,global
+30,84.8858173076923,GM,True,False,global
+60,85.91746794871794,GM,True,False,global
+90,86.86899038461539,GM,True,False,global
+120,87.34975961538461,GM,True,False,global
+150,87.9707532051282,GM,True,False,global
+180,88.64182692307692,GM,True,False,global
+210,88.49158653846153,GM,True,False,global
+240,88.26121794871794,GM,True,False,global
+270,88.77203525641026,GM,True,False,global
+300,88.10096153846153,GM,True,False,global
+330,89.26282051282051,GM,True,False,global
+360,89.78365384615384,GM,True,False,global
+390,89.95392628205128,GM,True,False,global
+420,89.59334935897436,GM,True,False,global
+450,89.75360576923077,GM,True,False,global
+480,89.67347756410257,GM,True,False,global
+510,89.62339743589743,GM,True,False,global
+540,89.65344551282051,GM,True,False,global
+570,89.67347756410257,GM,True,False,global
+600,89.79366987179488,GM,True,False,global
+630,89.93389423076923,GM,True,False,global
+660,90.02403846153847,GM,True,False,global
+690,90.05408653846153,GM,True,False,global
+720,90.16426282051282,GM,True,False,global
+750,90.44471153846153,GM,True,False,global
+780,90.57491987179488,GM,True,False,global
+810,90.7051282051282,GM,True,False,global
+840,90.85536858974359,GM,True,False,global
+870,91.02564102564102,GM,True,False,global
+0,49.28886217948718,GM,True,False,clique 1
+30,49.82972756410256,GM,True,False,clique 1
+60,50.130208333333336,GM,True,False,clique 1
+90,50.36057692307692,GM,True,False,clique 1
+120,50.46073717948718,GM,True,False,clique 1
+150,50.56089743589744,GM,True,False,clique 1
+180,50.54086538461539,GM,True,False,clique 1
+210,50.500801282051285,GM,True,False,clique 1
+240,50.54086538461539,GM,True,False,clique 1
+270,50.671073717948715,GM,True,False,clique 1
+300,50.66105769230769,GM,True,False,clique 1
+330,50.681089743589745,GM,True,False,clique 1
+360,50.671073717948715,GM,True,False,clique 1
+390,50.72115384615385,GM,True,False,clique 1
+420,50.75120192307692,GM,True,False,clique 1
+450,50.75120192307692,GM,True,False,clique 1
+480,50.7411858974359,GM,True,False,clique 1
+510,50.7411858974359,GM,True,False,clique 1
+540,50.75120192307692,GM,True,False,clique 1
+570,50.7411858974359,GM,True,False,clique 1
+600,50.7411858974359,GM,True,False,clique 1
+630,50.7411858974359,GM,True,False,clique 1
+660,50.7411858974359,GM,True,False,clique 1
+690,50.7411858974359,GM,True,False,clique 1
+720,50.76121794871795,GM,True,False,clique 1
+750,50.881410256410255,GM,True,False,clique 1
+780,50.97155448717949,GM,True,False,clique 1
+810,51.20192307692308,GM,True,False,clique 1
+840,51.432291666666664,GM,True,False,clique 1
+870,51.662660256410255,GM,True,False,clique 1
+0,44.250801282051285,GM,True,False,clique 2
+30,45.783253205128204,GM,True,False,clique 2
+60,46.16386217948718,GM,True,False,clique 2
+90,46.45432692307692,GM,True,False,clique 2
+120,46.64463141025641,GM,True,False,clique 2
+150,46.89503205128205,GM,True,False,clique 2
+180,46.71474358974359,GM,True,False,clique 2
+210,47.02524038461539,GM,True,False,clique 2
+240,46.774839743589745,GM,True,False,clique 2
+270,46.96514423076923,GM,True,False,clique 2
+300,47.04527243589744,GM,True,False,clique 2
+330,47.135416666666664,GM,True,False,clique 2
+360,47.04527243589744,GM,True,False,clique 2
+390,47.155448717948715,GM,True,False,clique 2
+420,47.04527243589744,GM,True,False,clique 2
+450,47.155448717948715,GM,True,False,clique 2
+480,47.20552884615385,GM,True,False,clique 2
+510,47.185496794871796,GM,True,False,clique 2
+540,47.20552884615385,GM,True,False,clique 2
+570,47.185496794871796,GM,True,False,clique 2
+600,47.165464743589745,GM,True,False,clique 2
+630,47.165464743589745,GM,True,False,clique 2
+660,47.14543269230769,GM,True,False,clique 2
+690,47.155448717948715,GM,True,False,clique 2
+720,47.165464743589745,GM,True,False,clique 2
+750,47.185496794871796,GM,True,False,clique 2
+780,47.23557692307692,GM,True,False,clique 2
+810,47.365785256410255,GM,True,False,clique 2
+840,47.56610576923077,GM,True,False,clique 2
+870,47.80649038461539,GM,True,False,clique 2
+0,79.08653846153847,GM,True,True,global
+30,85.10616987179488,GM,True,True,global
+60,86.09775641025641,GM,True,True,global
+90,86.99919871794872,GM,True,True,global
+120,87.5801282051282,GM,True,True,global
+150,87.79046474358974,GM,True,True,global
+180,88.6318108974359,GM,True,True,global
+210,89.70352564102564,GM,True,True,global
+240,89.99399038461539,GM,True,True,global
+270,89.24278846153847,GM,True,True,global
+300,89.4130608974359,GM,True,True,global
+330,90.234375,GM,True,True,global
+360,90.76522435897436,GM,True,True,global
+390,90.91546474358974,GM,True,True,global
+420,90.98557692307692,GM,True,True,global
+450,91.29607371794872,GM,True,True,global
+480,91.73677884615384,GM,True,True,global
+510,91.68669871794872,GM,True,True,global
+540,91.93709935897436,GM,True,True,global
+570,92.00721153846153,GM,True,True,global
+600,92.2676282051282,GM,True,True,global
+630,92.47796474358974,GM,True,True,global
+660,92.56810897435898,GM,True,True,global
+690,92.6983173076923,GM,True,True,global
+720,92.85857371794872,GM,True,True,global
+750,92.86858974358974,GM,True,True,global
+780,92.98878205128206,GM,True,True,global
+810,93.13902243589743,GM,True,True,global
+840,93.18910256410257,GM,True,True,global
+870,93.3193108974359,GM,True,True,global
+0,49.30889423076923,GM,True,True,clique 1
+30,49.82972756410256,GM,True,True,clique 1
+60,50.05008012820513,GM,True,True,clique 1
+90,50.310496794871796,GM,True,True,clique 1
+120,50.4306891025641,GM,True,True,clique 1
+150,50.56089743589744,GM,True,True,clique 1
+180,50.56089743589744,GM,True,True,clique 1
+210,50.58092948717949,GM,True,True,clique 1
+240,50.56089743589744,GM,True,True,clique 1
+270,50.48076923076923,GM,True,True,clique 1
+300,50.61097756410256,GM,True,True,clique 1
+330,50.861378205128204,GM,True,True,clique 1
+360,51.482371794871796,GM,True,True,clique 1
+390,51.5224358974359,GM,True,True,clique 1
+420,51.42227564102564,GM,True,True,clique 1
+450,53.00480769230769,GM,True,True,clique 1
+480,53.515625,GM,True,True,clique 1
+510,54.90785256410256,GM,True,True,clique 1
+540,55.779246794871796,GM,True,True,clique 1
+570,56.96113782051282,GM,True,True,clique 1
+600,58.54366987179487,GM,True,True,clique 1
+630,59.7255608974359,GM,True,True,clique 1
+660,60.95753205128205,GM,True,True,clique 1
+690,62.27964743589744,GM,True,True,clique 1
+720,63.3213141025641,GM,True,True,clique 1
+750,64.73357371794872,GM,True,True,clique 1
+780,65.46474358974359,GM,True,True,clique 1
+810,67.1073717948718,GM,True,True,clique 1
+840,67.9286858974359,GM,True,True,clique 1
+870,69.13060897435898,GM,True,True,clique 1
+0,44.26081730769231,GM,True,True,clique 2
+30,45.833333333333336,GM,True,True,clique 2
+60,46.23397435897436,GM,True,True,clique 2
+90,46.46434294871795,GM,True,True,clique 2
+120,46.46434294871795,GM,True,True,clique 2
+150,46.71474358974359,GM,True,True,clique 2
+180,46.84495192307692,GM,True,True,clique 2
+210,46.985176282051285,GM,True,True,clique 2
+240,46.54447115384615,GM,True,True,clique 2
+270,46.66466346153846,GM,True,True,clique 2
+300,47.03525641025641,GM,True,True,clique 2
+330,47.185496794871796,GM,True,True,clique 2
+360,47.375801282051285,GM,True,True,clique 2
+390,47.786458333333336,GM,True,True,clique 2
+420,48.59775641025641,GM,True,True,clique 2
+450,49.61939102564103,GM,True,True,clique 2
+480,50.54086538461539,GM,True,True,clique 2
+510,51.57251602564103,GM,True,True,clique 2
+540,53.10496794871795,GM,True,True,clique 2
+570,54.407051282051285,GM,True,True,clique 2
+600,55.859375,GM,True,True,clique 2
+630,57.311698717948715,GM,True,True,clique 2
+660,58.83413461538461,GM,True,True,clique 2
+690,60.21634615384615,GM,True,True,clique 2
+720,62.05929487179487,GM,True,True,clique 2
+750,63.62179487179487,GM,True,True,clique 2
+780,65.34455128205128,GM,True,True,clique 2
+810,66.7167467948718,GM,True,True,clique 2
+840,68.22916666666667,GM,True,True,clique 2
+870,69.48116987179488,GM,True,True,clique 2
+0,80.23838141025641,MOZI,True,False,global
+30,82.3016826923077,MOZI,True,False,global
+60,82.36177884615384,MOZI,True,False,global
+90,82.53205128205128,MOZI,True,False,global
+120,82.7724358974359,MOZI,True,False,global
+150,84.19471153846153,MOZI,True,False,global
+180,83.97435897435898,MOZI,True,False,global
+210,83.41346153846153,MOZI,True,False,global
+240,84.52524038461539,MOZI,True,False,global
+270,84.78565705128206,MOZI,True,False,global
+300,85.38661858974359,MOZI,True,False,global
+330,85.67708333333333,MOZI,True,False,global
+360,86.12780448717949,MOZI,True,False,global
+390,86.26802884615384,MOZI,True,False,global
+420,86.02764423076923,MOZI,True,False,global
+450,86.328125,MOZI,True,False,global
+480,86.6386217948718,MOZI,True,False,global
+510,86.21794871794872,MOZI,True,False,global
+540,86.8389423076923,MOZI,True,False,global
+570,87.15945512820512,MOZI,True,False,global
+600,86.29807692307692,MOZI,True,False,global
+630,86.9891826923077,MOZI,True,False,global
+660,87.1494391025641,MOZI,True,False,global
+690,86.62860576923077,MOZI,True,False,global
+720,87.01923076923077,MOZI,True,False,global
+750,87.08934294871794,MOZI,True,False,global
+780,87.08934294871794,MOZI,True,False,global
+810,87.25961538461539,MOZI,True,False,global
+840,87.32972756410257,MOZI,True,False,global
+870,87.11939102564102,MOZI,True,False,global
+0,48.307291666666664,MOZI,True,False,clique 1
+30,49.37900641025641,MOZI,True,False,clique 1
+60,49.57932692307692,MOZI,True,False,clique 1
+90,49.74959935897436,MOZI,True,False,clique 1
+120,49.889823717948715,MOZI,True,False,clique 1
+150,50.0400641025641,MOZI,True,False,clique 1
+180,50.110176282051285,MOZI,True,False,clique 1
+210,50.21033653846154,MOZI,True,False,clique 1
+240,50.290464743589745,MOZI,True,False,clique 1
+270,50.290464743589745,MOZI,True,False,clique 1
+300,50.36057692307692,MOZI,True,False,clique 1
+330,50.42067307692308,MOZI,True,False,clique 1
+360,50.41065705128205,MOZI,True,False,clique 1
+390,50.45072115384615,MOZI,True,False,clique 1
+420,50.470753205128204,MOZI,True,False,clique 1
+450,50.470753205128204,MOZI,True,False,clique 1
+480,50.54086538461539,MOZI,True,False,clique 1
+510,50.55088141025641,MOZI,True,False,clique 1
+540,50.54086538461539,MOZI,True,False,clique 1
+570,50.58092948717949,MOZI,True,False,clique 1
+600,50.59094551282051,MOZI,True,False,clique 1
+630,50.59094551282051,MOZI,True,False,clique 1
+660,50.60096153846154,MOZI,True,False,clique 1
+690,50.63100961538461,MOZI,True,False,clique 1
+720,50.63100961538461,MOZI,True,False,clique 1
+750,50.651041666666664,MOZI,True,False,clique 1
+780,50.63100961538461,MOZI,True,False,clique 1
+810,50.66105769230769,MOZI,True,False,clique 1
+840,50.671073717948715,MOZI,True,False,clique 1
+870,50.681089743589745,MOZI,True,False,clique 1
+0,43.17908653846154,MOZI,True,False,clique 2
+30,44.19070512820513,MOZI,True,False,clique 2
+60,44.74158653846154,MOZI,True,False,clique 2
+90,45.19230769230769,MOZI,True,False,clique 2
+120,45.43269230769231,MOZI,True,False,clique 2
+150,45.76322115384615,MOZI,True,False,clique 2
+180,45.95352564102564,MOZI,True,False,clique 2
+210,46.08373397435897,MOZI,True,False,clique 2
+240,46.21394230769231,MOZI,True,False,clique 2
+270,46.354166666666664,MOZI,True,False,clique 2
+300,46.42427884615385,MOZI,True,False,clique 2
+330,46.51442307692308,MOZI,True,False,clique 2
+360,46.60456730769231,MOZI,True,False,clique 2
+390,46.63461538461539,MOZI,True,False,clique 2
+420,46.72475961538461,MOZI,True,False,clique 2
+450,46.774839743589745,MOZI,True,False,clique 2
+480,46.82491987179487,MOZI,True,False,clique 2
+510,46.955128205128204,MOZI,True,False,clique 2
+540,46.955128205128204,MOZI,True,False,clique 2
+570,47.005208333333336,MOZI,True,False,clique 2
+600,47.04527243589744,MOZI,True,False,clique 2
+630,47.05528846153846,MOZI,True,False,clique 2
+660,47.11538461538461,MOZI,True,False,clique 2
+690,47.165464743589745,MOZI,True,False,clique 2
+720,47.135416666666664,MOZI,True,False,clique 2
+750,47.17548076923077,MOZI,True,False,clique 2
+780,47.265625,MOZI,True,False,clique 2
+810,47.21554487179487,MOZI,True,False,clique 2
+840,47.17548076923077,MOZI,True,False,clique 2
+870,47.31570512820513,MOZI,True,False,clique 2
+0,52.98477564102564,MOZI,True,True,global
+30,49.1786858974359,MOZI,True,True,global
+60,48.307291666666664,MOZI,True,True,global
+90,47.32572115384615,MOZI,True,True,global
+120,49.67948717948718,MOZI,True,True,global
+150,50.130208333333336,MOZI,True,True,global
+180,50.01001602564103,MOZI,True,True,global
+210,50.48076923076923,MOZI,True,True,global
+240,50.66105769230769,MOZI,True,True,global
+270,49.79967948717949,MOZI,True,True,global
+300,51.08173076923077,MOZI,True,True,global
+330,53.13501602564103,MOZI,True,True,global
+360,51.9130608974359,MOZI,True,True,global
+390,54.98798076923077,MOZI,True,True,global
+420,54.296875,MOZI,True,True,global
+450,53.48557692307692,MOZI,True,True,global
+480,56.82091346153846,MOZI,True,True,global
+510,56.47035256410256,MOZI,True,True,global
+540,57.922676282051285,MOZI,True,True,global
+570,60.09615384615385,MOZI,True,True,global
+600,59.31490384615385,MOZI,True,True,global
+630,58.53365384615385,MOZI,True,True,global
+660,60.48677884615385,MOZI,True,True,global
+690,61.09775641025641,MOZI,True,True,global
+720,61.62860576923077,MOZI,True,True,global
+750,62.01923076923077,MOZI,True,True,global
+780,62.68028846153846,MOZI,True,True,global
+810,60.56690705128205,MOZI,True,True,global
+840,62.580128205128204,MOZI,True,True,global
+870,63.22115384615385,MOZI,True,True,global
+0,48.3974358974359,MOZI,True,True,clique 1
+30,53.54567307692308,MOZI,True,True,clique 1
+60,58.693910256410255,MOZI,True,True,clique 1
+90,61.818910256410255,MOZI,True,True,clique 1
+120,61.999198717948715,MOZI,True,True,clique 1
+150,62.189503205128204,MOZI,True,True,clique 1
+180,62.75040064102564,MOZI,True,True,clique 1
+210,63.01081730769231,MOZI,True,True,clique 1
+240,63.10096153846154,MOZI,True,True,clique 1
+270,64.34294871794872,MOZI,True,True,clique 1
+300,64.17267628205128,MOZI,True,True,clique 1
+330,64.55328525641026,MOZI,True,True,clique 1
+360,65.77524038461539,MOZI,True,True,clique 1
+390,64.3729967948718,MOZI,True,True,clique 1
+420,64.63341346153847,MOZI,True,True,clique 1
+450,66.81690705128206,MOZI,True,True,clique 1
+480,65.7051282051282,MOZI,True,True,clique 1
+510,65.9354967948718,MOZI,True,True,clique 1
+540,66.65665064102564,MOZI,True,True,clique 1
+570,64.95392628205128,MOZI,True,True,clique 1
+600,65.77524038461539,MOZI,True,True,clique 1
+630,67.5380608974359,MOZI,True,True,clique 1
+660,65.30448717948718,MOZI,True,True,clique 1
+690,65.20432692307692,MOZI,True,True,clique 1
+720,66.60657051282051,MOZI,True,True,clique 1
+750,66.55649038461539,MOZI,True,True,clique 1
+780,65.76522435897436,MOZI,True,True,clique 1
+810,67.13741987179488,MOZI,True,True,clique 1
+840,66.7568108974359,MOZI,True,True,clique 1
+870,65.87540064102564,MOZI,True,True,clique 1
+0,43.02884615384615,MOZI,True,True,clique 2
+30,44.29086538461539,MOZI,True,True,clique 2
+60,44.91185897435897,MOZI,True,True,clique 2
+90,45.34254807692308,MOZI,True,True,clique 2
+120,45.55288461538461,MOZI,True,True,clique 2
+150,45.703125,MOZI,True,True,clique 2
+180,46.00360576923077,MOZI,True,True,clique 2
+210,46.12379807692308,MOZI,True,True,clique 2
+240,46.28405448717949,MOZI,True,True,clique 2
+270,46.404246794871796,MOZI,True,True,clique 2
+300,46.384214743589745,MOZI,True,True,clique 2
+330,46.50440705128205,MOZI,True,True,clique 2
+360,46.614583333333336,MOZI,True,True,clique 2
+390,46.47435897435897,MOZI,True,True,clique 2
+420,46.73477564102564,MOZI,True,True,clique 2
+450,46.73477564102564,MOZI,True,True,clique 2
+480,46.81490384615385,MOZI,True,True,clique 2
+510,46.875,MOZI,True,True,clique 2
+540,46.80488782051282,MOZI,True,True,clique 2
+570,46.94511217948718,MOZI,True,True,clique 2
+600,47.02524038461539,MOZI,True,True,clique 2
+630,47.005208333333336,MOZI,True,True,clique 2
+660,46.99519230769231,MOZI,True,True,clique 2
+690,47.165464743589745,MOZI,True,True,clique 2
+720,47.07532051282051,MOZI,True,True,clique 2
+750,47.19551282051282,MOZI,True,True,clique 2
+780,47.23557692307692,MOZI,True,True,clique 2
+810,47.25560897435897,MOZI,True,True,clique 2
+840,47.25560897435897,MOZI,True,True,clique 2
+870,47.32572115384615,MOZI,True,True,clique 2
+0,78.97636217948718,TM,True,False,global
+30,85.35657051282051,TM,True,False,global
+60,86.55849358974359,TM,True,False,global
+90,87.8104967948718,TM,True,False,global
+120,88.5516826923077,TM,True,False,global
+150,89.42307692307692,TM,True,False,global
+180,89.70352564102564,TM,True,False,global
+210,90.30448717948718,TM,True,False,global
+240,90.92548076923077,TM,True,False,global
+270,90.75520833333333,TM,True,False,global
+300,90.99559294871794,TM,True,False,global
+330,90.39463141025641,TM,True,False,global
+360,91.26602564102564,TM,True,False,global
+390,91.68669871794872,TM,True,False,global
+420,91.45633012820512,TM,True,False,global
+450,91.20592948717949,TM,True,False,global
+480,91.92708333333333,TM,True,False,global
+510,92.23758012820512,TM,True,False,global
+540,92.50801282051282,TM,True,False,global
+570,92.75841346153847,TM,True,False,global
+600,92.67828525641026,TM,True,False,global
+630,92.82852564102564,TM,True,False,global
+660,92.79847756410257,TM,True,False,global
+690,92.83854166666667,TM,True,False,global
+720,92.86858974358974,TM,True,False,global
+750,92.89863782051282,TM,True,False,global
+780,93.0088141025641,TM,True,False,global
+810,93.05889423076923,TM,True,False,global
+840,93.07892628205128,TM,True,False,global
+870,93.09895833333333,TM,True,False,global
+0,49.328926282051285,TM,True,False,clique 1
+30,49.919871794871796,TM,True,False,clique 1
+60,49.85977564102564,TM,True,False,clique 1
+90,50.280448717948715,TM,True,False,clique 1
+120,50.40064102564103,TM,True,False,clique 1
+150,50.46073717948718,TM,True,False,clique 1
+180,50.77123397435897,TM,True,False,clique 1
+210,51.47235576923077,TM,True,False,clique 1
+240,52.02323717948718,TM,True,False,clique 1
+270,52.48397435897436,TM,True,False,clique 1
+300,53.06490384615385,TM,True,False,clique 1
+330,53.85616987179487,TM,True,False,clique 1
+360,54.947916666666664,TM,True,False,clique 1
+390,55.779246794871796,TM,True,False,clique 1
+420,55.568910256410255,TM,True,False,clique 1
+450,56.87099358974359,TM,True,False,clique 1
+480,57.7724358974359,TM,True,False,clique 1
+510,56.70072115384615,TM,True,False,clique 1
+540,58.44350961538461,TM,True,False,clique 1
+570,58.513621794871796,TM,True,False,clique 1
+600,59.57532051282051,TM,True,False,clique 1
+630,59.94591346153846,TM,True,False,clique 1
+660,60.98758012820513,TM,True,False,clique 1
+690,61.51842948717949,TM,True,False,clique 1
+720,61.86899038461539,TM,True,False,clique 1
+750,62.219551282051285,TM,True,False,clique 1
+780,62.59014423076923,TM,True,False,clique 1
+810,63.07091346153846,TM,True,False,clique 1
+840,63.47155448717949,TM,True,False,clique 1
+870,63.782051282051285,TM,True,False,clique 1
+0,44.220753205128204,TM,True,False,clique 2
+30,45.803285256410255,TM,True,False,clique 2
+60,46.354166666666664,TM,True,False,clique 2
+90,46.51442307692308,TM,True,False,clique 2
+120,46.64463141025641,TM,True,False,clique 2
+150,46.81490384615385,TM,True,False,clique 2
+180,47.14543269230769,TM,True,False,clique 2
+210,47.33573717948718,TM,True,False,clique 2
+240,47.47596153846154,TM,True,False,clique 2
+270,48.61778846153846,TM,True,False,clique 2
+300,50.110176282051285,TM,True,False,clique 2
+330,50.51081730769231,TM,True,False,clique 2
+360,51.091746794871796,TM,True,False,clique 2
+390,50.81129807692308,TM,True,False,clique 2
+420,55.00801282051282,TM,True,False,clique 2
+450,55.64903846153846,TM,True,False,clique 2
+480,55.08814102564103,TM,True,False,clique 2
+510,55.30849358974359,TM,True,False,clique 2
+540,56.02964743589744,TM,True,False,clique 2
+570,57.49198717948718,TM,True,False,clique 2
+600,58.884214743589745,TM,True,False,clique 2
+630,59.39503205128205,TM,True,False,clique 2
+660,60.31650641025641,TM,True,False,clique 2
+690,61.02764423076923,TM,True,False,clique 2
+720,61.76883012820513,TM,True,False,clique 2
+750,62.31971153846154,TM,True,False,clique 2
+780,62.92067307692308,TM,True,False,clique 2
+810,63.43149038461539,TM,True,False,clique 2
+840,63.79206730769231,TM,True,False,clique 2
+870,64.31290064102564,TM,True,False,clique 2
+0,81.13982371794872,TM,True,True,global
+30,86.94911858974359,TM,True,True,global
+60,88.15104166666667,TM,True,True,global
+90,88.7520032051282,TM,True,True,global
+120,89.42307692307692,TM,True,True,global
+150,89.91386217948718,TM,True,True,global
+180,90.18429487179488,TM,True,True,global
+210,90.65504807692308,TM,True,True,global
+240,90.625,TM,True,True,global
+270,90.71514423076923,TM,True,True,global
+300,91.11578525641026,TM,True,True,global
+330,91.89703525641026,TM,True,True,global
+360,92.3076923076923,TM,True,True,global
+390,92.19751602564102,TM,True,True,global
+420,92.32772435897436,TM,True,True,global
+450,92.27764423076923,TM,True,True,global
+480,92.46794871794872,TM,True,True,global
+510,92.72836538461539,TM,True,True,global
+540,92.63822115384616,TM,True,True,global
+570,92.72836538461539,TM,True,True,global
+600,92.85857371794872,TM,True,True,global
+630,92.78846153846153,TM,True,True,global
+660,92.90865384615384,TM,True,True,global
+690,92.80849358974359,TM,True,True,global
+720,93.24919871794872,TM,True,True,global
+750,93.29927884615384,TM,True,True,global
+780,93.34935897435898,TM,True,True,global
+810,93.32932692307692,TM,True,True,global
+840,93.38942307692308,TM,True,True,global
+870,93.37940705128206,TM,True,True,global
+0,49.36899038461539,TM,True,True,clique 1
+30,50.05008012820513,TM,True,True,clique 1
+60,50.12019230769231,TM,True,True,clique 1
+90,52.04326923076923,TM,True,True,clique 1
+120,53.27524038461539,TM,True,True,clique 1
+150,54.84775641025641,TM,True,True,clique 1
+180,56.05969551282051,TM,True,True,clique 1
+210,57.54206730769231,TM,True,True,clique 1
+240,57.66225961538461,TM,True,True,clique 1
+270,58.41346153846154,TM,True,True,clique 1
+300,60.27644230769231,TM,True,True,clique 1
+330,61.14783653846154,TM,True,True,clique 1
+360,62.32972756410256,TM,True,True,clique 1
+390,60.56690705128205,TM,True,True,clique 1
+420,62.70032051282051,TM,True,True,clique 1
+450,62.71033653846154,TM,True,True,clique 1
+480,64.87379807692308,TM,True,True,clique 1
+510,65.64503205128206,TM,True,True,clique 1
+540,66.81690705128206,TM,True,True,clique 1
+570,67.97876602564102,TM,True,True,clique 1
+600,68.96033653846153,TM,True,True,clique 1
+630,69.23076923076923,TM,True,True,clique 1
+660,69.70152243589743,TM,True,True,clique 1
+690,70.73317307692308,TM,True,True,clique 1
+720,70.7431891025641,TM,True,True,clique 1
+750,71.69471153846153,TM,True,True,clique 1
+780,71.98517628205128,TM,True,True,clique 1
+810,72.72636217948718,TM,True,True,clique 1
+840,73.0068108974359,TM,True,True,clique 1
+870,73.44751602564102,TM,True,True,clique 1
+0,44.240785256410255,TM,True,True,clique 2
+30,45.87339743589744,TM,True,True,clique 2
+60,46.63461538461539,TM,True,True,clique 2
+90,48.91826923076923,TM,True,True,clique 2
+120,50.93149038461539,TM,True,True,clique 2
+150,54.14663461538461,TM,True,True,clique 2
+180,55.759214743589745,TM,True,True,clique 2
+210,54.607371794871796,TM,True,True,clique 2
+240,54.216746794871796,TM,True,True,clique 2
+270,56.41025641025641,TM,True,True,clique 2
+300,55.01802884615385,TM,True,True,clique 2
+330,56.67067307692308,TM,True,True,clique 2
+360,58.703926282051285,TM,True,True,clique 2
+390,59.3349358974359,TM,True,True,clique 2
+420,59.46514423076923,TM,True,True,clique 2
+450,64.7235576923077,TM,True,True,clique 2
+480,63.50160256410256,TM,True,True,clique 2
+510,63.000801282051285,TM,True,True,clique 2
+540,63.85216346153846,TM,True,True,clique 2
+570,67.32772435897436,TM,True,True,clique 2
+600,67.4979967948718,TM,True,True,clique 2
+630,69.64142628205128,TM,True,True,clique 2
+660,70.76322115384616,TM,True,True,clique 2
+690,68.11899038461539,TM,True,True,clique 2
+720,69.94190705128206,TM,True,True,clique 2
+750,71.70472756410257,TM,True,True,clique 2
+780,73.1270032051282,TM,True,True,clique 2
+810,73.45753205128206,TM,True,True,clique 2
+840,73.95833333333333,TM,True,True,clique 2
+870,74.38902243589743,TM,True,True,clique 2
+0,81.09975961538461,SCClip,True,False,global
+30,86.72876602564102,SCClip,True,False,global
+60,87.75040064102564,SCClip,True,False,global
+90,88.49158653846153,SCClip,True,False,global
+120,89.12259615384616,SCClip,True,False,global
+150,89.61338141025641,SCClip,True,False,global
+180,89.78365384615384,SCClip,True,False,global
+210,89.71354166666667,SCClip,True,False,global
+240,90.30448717948718,SCClip,True,False,global
+270,90.45472756410257,SCClip,True,False,global
+300,90.3545673076923,SCClip,True,False,global
+330,91.41626602564102,SCClip,True,False,global
+360,91.796875,SCClip,True,False,global
+390,92.00721153846153,SCClip,True,False,global
+420,92.42788461538461,SCClip,True,False,global
+450,92.5380608974359,SCClip,True,False,global
+480,92.55809294871794,SCClip,True,False,global
+510,92.23758012820512,SCClip,True,False,global
+540,92.78846153846153,SCClip,True,False,global
+570,92.99879807692308,SCClip,True,False,global
+600,93.0488782051282,SCClip,True,False,global
+630,93.0889423076923,SCClip,True,False,global
+660,92.95873397435898,SCClip,True,False,global
+690,93.16907051282051,SCClip,True,False,global
+720,93.18910256410257,SCClip,True,False,global
+750,93.19911858974359,SCClip,True,False,global
+780,93.28926282051282,SCClip,True,False,global
+810,93.29927884615384,SCClip,True,False,global
+840,93.30929487179488,SCClip,True,False,global
+870,93.29927884615384,SCClip,True,False,global
+0,49.36899038461539,SCClip,True,False,clique 1
+30,50.03004807692308,SCClip,True,False,clique 1
+60,49.82972756410256,SCClip,True,False,clique 1
+90,50.701121794871796,SCClip,True,False,clique 1
+120,52.04326923076923,SCClip,True,False,clique 1
+150,53.45552884615385,SCClip,True,False,clique 1
+180,54.44711538461539,SCClip,True,False,clique 1
+210,55.80929487179487,SCClip,True,False,clique 1
+240,56.330128205128204,SCClip,True,False,clique 1
+270,57.37179487179487,SCClip,True,False,clique 1
+300,58.17307692307692,SCClip,True,False,clique 1
+330,59.57532051282051,SCClip,True,False,clique 1
+360,61.56850961538461,SCClip,True,False,clique 1
+390,59.71554487179487,SCClip,True,False,clique 1
+420,62.17948717948718,SCClip,True,False,clique 1
+450,62.75040064102564,SCClip,True,False,clique 1
+480,64.0625,SCClip,True,False,clique 1
+510,64.35296474358974,SCClip,True,False,clique 1
+540,65.45472756410257,SCClip,True,False,clique 1
+570,65.9354967948718,SCClip,True,False,clique 1
+600,66.38621794871794,SCClip,True,False,clique 1
+630,67.05729166666667,SCClip,True,False,clique 1
+660,67.58814102564102,SCClip,True,False,clique 1
+690,68.12900641025641,SCClip,True,False,clique 1
+720,68.53966346153847,SCClip,True,False,clique 1
+750,69.12059294871794,SCClip,True,False,clique 1
+780,69.79166666666667,SCClip,True,False,clique 1
+810,70.13221153846153,SCClip,True,False,clique 1
+840,70.69310897435898,SCClip,True,False,clique 1
+870,71.27403846153847,SCClip,True,False,clique 1
+0,44.270833333333336,SCClip,True,False,clique 2
+30,45.90344551282051,SCClip,True,False,clique 2
+60,46.34415064102564,SCClip,True,False,clique 2
+90,46.9150641025641,SCClip,True,False,clique 2
+120,48.89823717948718,SCClip,True,False,clique 2
+150,50.25040064102564,SCClip,True,False,clique 2
+180,51.35216346153846,SCClip,True,False,clique 2
+210,52.864583333333336,SCClip,True,False,clique 2
+240,53.84615384615385,SCClip,True,False,clique 2
+270,49.298878205128204,SCClip,True,False,clique 2
+300,52.19350961538461,SCClip,True,False,clique 2
+330,54.016426282051285,SCClip,True,False,clique 2
+360,57.00120192307692,SCClip,True,False,clique 2
+390,58.493589743589745,SCClip,True,False,clique 2
+420,58.91426282051282,SCClip,True,False,clique 2
+450,60.72716346153846,SCClip,True,False,clique 2
+480,62.03926282051282,SCClip,True,False,clique 2
+510,62.1494391025641,SCClip,True,False,clique 2
+540,64.5733173076923,SCClip,True,False,clique 2
+570,66.3661858974359,SCClip,True,False,clique 2
+600,66.20592948717949,SCClip,True,False,clique 2
+630,67.16746794871794,SCClip,True,False,clique 2
+660,66.47636217948718,SCClip,True,False,clique 2
+690,67.72836538461539,SCClip,True,False,clique 2
+720,68.80008012820512,SCClip,True,False,clique 2
+750,69.66145833333333,SCClip,True,False,clique 2
+780,70.59294871794872,SCClip,True,False,clique 2
+810,71.16386217948718,SCClip,True,False,clique 2
+840,71.59455128205128,SCClip,True,False,clique 2
+870,71.97516025641026,SCClip,True,False,clique 2
+0,79.10657051282051,SCClip,True,True,global
+30,84.85576923076923,SCClip,True,True,global
+60,87.43990384615384,SCClip,True,True,global
+90,88.85216346153847,SCClip,True,True,global
+120,89.71354166666667,SCClip,True,True,global
+150,90.09415064102564,SCClip,True,True,global
+180,90.46474358974359,SCClip,True,True,global
+210,90.52483974358974,SCClip,True,True,global
+240,89.0224358974359,SCClip,True,True,global
+270,90.45472756410257,SCClip,True,True,global
+300,91.14583333333333,SCClip,True,True,global
+330,92.23758012820512,SCClip,True,True,global
+360,92.3076923076923,SCClip,True,True,global
+390,92.62820512820512,SCClip,True,True,global
+420,92.58814102564102,SCClip,True,True,global
+450,92.67828525641026,SCClip,True,True,global
+480,92.42788461538461,SCClip,True,True,global
+510,93.21915064102564,SCClip,True,True,global
+540,93.3193108974359,SCClip,True,True,global
+570,93.32932692307692,SCClip,True,True,global
+600,93.45953525641026,SCClip,True,True,global
+630,93.40945512820512,SCClip,True,True,global
+660,93.37940705128206,SCClip,True,True,global
+690,93.38942307692308,SCClip,True,True,global
+720,93.45953525641026,SCClip,True,True,global
+750,93.49959935897436,SCClip,True,True,global
+780,93.53966346153847,SCClip,True,True,global
+810,93.61979166666667,SCClip,True,True,global
+840,93.64983974358974,SCClip,True,True,global
+870,93.68990384615384,SCClip,True,True,global
+0,49.36899038461539,SCClip,True,True,clique 1
+30,51.70272435897436,SCClip,True,True,clique 1
+60,54.43709935897436,SCClip,True,True,clique 1
+90,56.28004807692308,SCClip,True,True,clique 1
+120,57.21153846153846,SCClip,True,True,clique 1
+150,57.90264423076923,SCClip,True,True,clique 1
+180,58.64383012820513,SCClip,True,True,clique 1
+210,59.22475961538461,SCClip,True,True,clique 1
+240,59.62540064102564,SCClip,True,True,clique 1
+270,62.17948717948718,SCClip,True,True,clique 1
+300,62.62019230769231,SCClip,True,True,clique 1
+330,63.65184294871795,SCClip,True,True,clique 1
+360,63.802083333333336,SCClip,True,True,clique 1
+390,64.44310897435898,SCClip,True,True,clique 1
+420,68.38942307692308,SCClip,True,True,clique 1
+450,68.85016025641026,SCClip,True,True,clique 1
+480,70.42267628205128,SCClip,True,True,clique 1
+510,71.3641826923077,SCClip,True,True,clique 1
+540,71.94511217948718,SCClip,True,True,clique 1
+570,73.33733974358974,SCClip,True,True,clique 1
+600,74.28886217948718,SCClip,True,True,clique 1
+630,74.80969551282051,SCClip,True,True,clique 1
+660,75.3505608974359,SCClip,True,True,clique 1
+690,75.95152243589743,SCClip,True,True,clique 1
+720,76.42227564102564,SCClip,True,True,clique 1
+750,76.86298076923077,SCClip,True,True,clique 1
+780,77.18349358974359,SCClip,True,True,clique 1
+810,77.59415064102564,SCClip,True,True,clique 1
+840,78.11498397435898,SCClip,True,True,clique 1
+870,78.515625,SCClip,True,True,clique 1
+0,44.17067307692308,SCClip,True,True,clique 2
+30,45.90344551282051,SCClip,True,True,clique 2
+60,47.576121794871796,SCClip,True,True,clique 2
+90,49.82972756410256,SCClip,True,True,clique 2
+120,52.36378205128205,SCClip,True,True,clique 2
+150,54.92788461538461,SCClip,True,True,clique 2
+180,55.52884615384615,SCClip,True,True,clique 2
+210,53.615785256410255,SCClip,True,True,clique 2
+240,54.88782051282051,SCClip,True,True,clique 2
+270,55.73918269230769,SCClip,True,True,clique 2
+300,55.84935897435897,SCClip,True,True,clique 2
+330,58.904246794871796,SCClip,True,True,clique 2
+360,61.15785256410256,SCClip,True,True,clique 2
+390,63.11097756410256,SCClip,True,True,clique 2
+420,66.26602564102564,SCClip,True,True,clique 2
+450,66.68669871794872,SCClip,True,True,clique 2
+480,68.7099358974359,SCClip,True,True,clique 2
+510,69.32091346153847,SCClip,True,True,clique 2
+540,70.50280448717949,SCClip,True,True,clique 2
+570,72.74639423076923,SCClip,True,True,clique 2
+600,73.42748397435898,SCClip,True,True,clique 2
+630,73.68790064102564,SCClip,True,True,clique 2
+660,74.50921474358974,SCClip,True,True,clique 2
+690,74.86979166666667,SCClip,True,True,clique 2
+720,75.42067307692308,SCClip,True,True,clique 2
+750,75.77123397435898,SCClip,True,True,clique 2
+780,76.19190705128206,SCClip,True,True,clique 2
+810,76.57251602564102,SCClip,True,True,clique 2
+840,77.04326923076923,SCClip,True,True,clique 2
+870,77.35376602564102,SCClip,True,True,clique 2

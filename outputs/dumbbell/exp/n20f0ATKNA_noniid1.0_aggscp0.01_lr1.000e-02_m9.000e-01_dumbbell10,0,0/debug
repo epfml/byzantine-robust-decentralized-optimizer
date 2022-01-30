@@ -1,0 +1,440 @@
+
+=== Start adding workers ===
+=> Add worker SGDMWorker(index=0, momentum=0.9)
+=> Add worker SGDMWorker(index=1, momentum=0.9)
+=> Add worker SGDMWorker(index=2, momentum=0.9)
+=> Add worker SGDMWorker(index=3, momentum=0.9)
+=> Add worker SGDMWorker(index=4, momentum=0.9)
+=> Add worker SGDMWorker(index=5, momentum=0.9)
+=> Add worker SGDMWorker(index=6, momentum=0.9)
+=> Add worker SGDMWorker(index=7, momentum=0.9)
+=> Add worker SGDMWorker(index=8, momentum=0.9)
+=> Add worker SGDMWorker(index=9, momentum=0.9)
+=> Add worker SGDMWorker(index=10, momentum=0.9)
+=> Add worker SGDMWorker(index=11, momentum=0.9)
+=> Add worker SGDMWorker(index=12, momentum=0.9)
+=> Add worker SGDMWorker(index=13, momentum=0.9)
+=> Add worker SGDMWorker(index=14, momentum=0.9)
+=> Add worker SGDMWorker(index=15, momentum=0.9)
+=> Add worker SGDMWorker(index=16, momentum=0.9)
+=> Add worker SGDMWorker(index=17, momentum=0.9)
+=> Add worker SGDMWorker(index=18, momentum=0.9)
+=> Add worker SGDMWorker(index=19, momentum=0.9)
+
+=== Start adding graph ===
+<codes.graph_utils.Dumbbell object at 0x7f6b549f36d0>
+
+Train epoch 1
+[E 1B0  |    640/60000 (  1%) ] Loss: 2.3066 top1=  9.2188
+
+=== Peeking data label distribution E1B0 ===
+Worker 0 has targets: tensor([3, 2, 2, 4, 3], device='cuda:0')
+Worker 1 has targets: tensor([1, 0, 0, 4, 0], device='cuda:0')
+Worker 2 has targets: tensor([4, 1, 0, 1, 0], device='cuda:0')
+Worker 3 has targets: tensor([0, 1, 4, 1, 3], device='cuda:0')
+Worker 4 has targets: tensor([0, 4, 1, 2, 4], device='cuda:0')
+Worker 5 has targets: tensor([2, 2, 4, 4, 4], device='cuda:0')
+Worker 6 has targets: tensor([1, 1, 4, 4, 3], device='cuda:0')
+Worker 7 has targets: tensor([4, 4, 1, 3, 0], device='cuda:0')
+Worker 8 has targets: tensor([1, 3, 1, 0, 4], device='cuda:0')
+Worker 9 has targets: tensor([1, 3, 3, 3, 1], device='cuda:0')
+Worker 10 has targets: tensor([8, 9, 7, 7, 9], device='cuda:0')
+Worker 11 has targets: tensor([8, 9, 6, 6, 7], device='cuda:0')
+Worker 12 has targets: tensor([8, 6, 5, 7, 8], device='cuda:0')
+Worker 13 has targets: tensor([7, 6, 9, 6, 5], device='cuda:0')
+Worker 14 has targets: tensor([8, 5, 8, 6, 7], device='cuda:0')
+Worker 15 has targets: tensor([9, 5, 6, 8, 6], device='cuda:0')
+Worker 16 has targets: tensor([7, 7, 8, 5, 8], device='cuda:0')
+Worker 17 has targets: tensor([9, 7, 5, 6, 6], device='cuda:0')
+Worker 18 has targets: tensor([7, 7, 7, 6, 6], device='cuda:0')
+Worker 19 has targets: tensor([5, 7, 9, 9, 7], device='cuda:0')
+
+
+[E 1B10 |   7040/60000 ( 12%) ] Loss: 1.1440 top1= 55.0000
+[E 1B20 |  13440/60000 ( 22%) ] Loss: 0.5429 top1= 81.4062
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.9185 top1= 81.5204
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=3.1854 top1= 48.8782
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=3.6520 top1= 44.1206
+
+Train epoch 2
+[E 2B0  |    640/60000 (  1%) ] Loss: 0.4330 top1= 86.8750
+[E 2B10 |   7040/60000 ( 12%) ] Loss: 0.2691 top1= 92.0312
+[E 2B20 |  13440/60000 ( 22%) ] Loss: 0.1800 top1= 94.3750
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.6568 top1= 84.0545
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=4.6299 top1= 49.4091
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=4.8303 top1= 45.0821
+
+Train epoch 3
+[E 3B0  |    640/60000 (  1%) ] Loss: 0.1326 top1= 95.1562
+[E 3B10 |   7040/60000 ( 12%) ] Loss: 0.1059 top1= 96.2500
+[E 3B20 |  13440/60000 ( 22%) ] Loss: 0.0683 top1= 98.1250
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.6320 top1= 85.3065
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=4.5297 top1= 49.7196
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=3.9303 top1= 45.5429
+
+Train epoch 4
+[E 4B0  |    640/60000 (  1%) ] Loss: 0.0517 top1= 98.4375
+[E 4B10 |   7040/60000 ( 12%) ] Loss: 0.0433 top1= 98.7500
+[E 4B20 |  13440/60000 ( 22%) ] Loss: 0.0380 top1= 98.9062
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.5540 top1= 86.5284
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=4.8900 top1= 49.7596
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=4.7826 top1= 45.6530
+
+Train epoch 5
+[E 5B0  |    640/60000 (  1%) ] Loss: 0.0275 top1= 98.7500
+[E 5B10 |   7040/60000 ( 12%) ] Loss: 0.0240 top1= 99.2188
+[E 5B20 |  13440/60000 ( 22%) ] Loss: 0.0077 top1= 99.8438
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.5200 top1= 86.5284
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=5.3675 top1= 49.8097
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=5.2138 top1= 45.7131
+
+Train epoch 6
+[E 6B0  |    640/60000 (  1%) ] Loss: 0.0133 top1= 99.6875
+[E 6B10 |   7040/60000 ( 12%) ] Loss: 0.0087 top1= 99.8438
+[E 6B20 |  13440/60000 ( 22%) ] Loss: 0.0046 top1=100.0000
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.5002 top1= 86.6086
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=5.4757 top1= 49.8798
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=5.6805 top1= 45.7732
+
+Train epoch 7
+[E 7B0  |    640/60000 (  1%) ] Loss: 0.0062 top1= 99.8438
+[E 7B10 |   7040/60000 ( 12%) ] Loss: 0.0040 top1=100.0000
+[E 7B20 |  13440/60000 ( 22%) ] Loss: 0.0061 top1= 99.8438
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.4837 top1= 86.6887
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=5.7512 top1= 49.8998
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=5.9719 top1= 45.8433
+
+Train epoch 8
+[E 8B0  |    640/60000 (  1%) ] Loss: 0.0030 top1= 99.8438
+[E 8B10 |   7040/60000 ( 12%) ] Loss: 0.0038 top1=100.0000
+[E 8B20 |  13440/60000 ( 22%) ] Loss: 0.0022 top1=100.0000
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.4706 top1= 86.7087
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=5.9745 top1= 49.9099
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.1199 top1= 45.8534
+
+Train epoch 9
+[E 9B0  |    640/60000 (  1%) ] Loss: 0.0024 top1=100.0000
+[E 9B10 |   7040/60000 ( 12%) ] Loss: 0.0025 top1=100.0000
+[E 9B20 |  13440/60000 ( 22%) ] Loss: 0.0023 top1=100.0000
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.4611 top1= 86.6687
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.1640 top1= 49.9399
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.2945 top1= 45.8634
+
+Train epoch 10
+[E10B0  |    640/60000 (  1%) ] Loss: 0.0025 top1=100.0000
+[E10B10 |   7040/60000 ( 12%) ] Loss: 0.0030 top1=100.0000
+[E10B20 |  13440/60000 ( 22%) ] Loss: 0.0028 top1=100.0000
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.4509 top1= 86.8189
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.3540 top1= 50.0100
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.4311 top1= 45.9635
+
+Train epoch 11
+[E11B0  |    640/60000 (  1%) ] Loss: 0.0031 top1=100.0000
+[E11B10 |   7040/60000 ( 12%) ] Loss: 0.0029 top1=100.0000
+[E11B20 |  13440/60000 ( 22%) ] Loss: 0.0035 top1=100.0000
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.4438 top1= 86.9191
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.4867 top1= 50.0401
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.5781 top1= 45.9335
+
+Train epoch 12
+[E12B0  |    640/60000 (  1%) ] Loss: 0.0032 top1=100.0000
+[E12B10 |   7040/60000 ( 12%) ] Loss: 0.0031 top1=100.0000
+[E12B20 |  13440/60000 ( 22%) ] Loss: 0.0034 top1=100.0000
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.4344 top1= 87.0593
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.6579 top1= 50.0601
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.6898 top1= 46.0136
+
+Train epoch 13
+[E13B0  |    640/60000 (  1%) ] Loss: 0.0046 top1=100.0000
+[E13B10 |   7040/60000 ( 12%) ] Loss: 0.0035 top1=100.0000
+[E13B20 |  13440/60000 ( 22%) ] Loss: 0.0034 top1=100.0000
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.4270 top1= 87.1695
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.7933 top1= 50.1002
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.8663 top1= 46.0236
+
+Train epoch 14
+[E14B0  |    640/60000 (  1%) ] Loss: 0.0043 top1= 99.8438
+[E14B10 |   7040/60000 ( 12%) ] Loss: 0.0038 top1=100.0000
+[E14B20 |  13440/60000 ( 22%) ] Loss: 0.0050 top1= 99.8438
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.4182 top1= 87.4099
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.8664 top1= 50.1202
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.9635 top1= 46.0637
+
+Train epoch 15
+[E15B0  |    640/60000 (  1%) ] Loss: 0.0067 top1= 99.8438
+[E15B10 |   7040/60000 ( 12%) ] Loss: 0.0045 top1=100.0000
+[E15B20 |  13440/60000 ( 22%) ] Loss: 0.0142 top1= 99.3750
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.4182 top1= 87.2196
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.7893 top1= 50.1502
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=7.0579 top1= 46.1538
+
+Train epoch 16
+[E16B0  |    640/60000 (  1%) ] Loss: 0.0042 top1=100.0000
+[E16B10 |   7040/60000 ( 12%) ] Loss: 0.0068 top1= 99.8438
+[E16B20 |  13440/60000 ( 22%) ] Loss: 0.0089 top1= 99.6875
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.4074 top1= 87.7504
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.6160 top1= 50.2905
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=7.0905 top1= 46.1839
+
+Train epoch 17
+[E17B0  |    640/60000 (  1%) ] Loss: 0.0123 top1= 99.6875
+[E17B10 |   7040/60000 ( 12%) ] Loss: 0.0132 top1= 99.6875
+[E17B20 |  13440/60000 ( 22%) ] Loss: 0.0066 top1= 99.8438
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.4022 top1= 87.8105
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.5932 top1= 50.3205
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=7.1107 top1= 46.3241
+
+Train epoch 18
+[E18B0  |    640/60000 (  1%) ] Loss: 0.0073 top1= 99.6875
+[E18B10 |   7040/60000 ( 12%) ] Loss: 0.0170 top1= 99.6875
+[E18B20 |  13440/60000 ( 22%) ] Loss: 0.0055 top1= 99.8438
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3943 top1= 87.8506
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.6070 top1= 50.3405
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=7.0471 top1= 46.3742
+
+Train epoch 19
+[E19B0  |    640/60000 (  1%) ] Loss: 0.0095 top1= 99.6875
+[E19B10 |   7040/60000 ( 12%) ] Loss: 0.0047 top1= 99.8438
+[E19B20 |  13440/60000 ( 22%) ] Loss: 0.0064 top1= 99.8438
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3936 top1= 87.7704
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.6202 top1= 50.3105
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=7.0609 top1= 46.3742
+
+Train epoch 20
+[E20B0  |    640/60000 (  1%) ] Loss: 0.0106 top1= 99.8438
+[E20B10 |   7040/60000 ( 12%) ] Loss: 0.0084 top1= 99.6875
+[E20B20 |  13440/60000 ( 22%) ] Loss: 0.0169 top1= 99.6875
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3859 top1= 88.2913
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.4307 top1= 50.3606
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.9649 top1= 46.4844
+
+Train epoch 21
+[E21B0  |    640/60000 (  1%) ] Loss: 0.0113 top1= 99.6875
+[E21B10 |   7040/60000 ( 12%) ] Loss: 0.0045 top1=100.0000
+[E21B20 |  13440/60000 ( 22%) ] Loss: 0.0185 top1= 99.8438
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3837 top1= 88.3313
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.4054 top1= 50.3606
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.6330 top1= 46.5244
+
+Train epoch 22
+[E22B0  |    640/60000 (  1%) ] Loss: 0.0100 top1= 99.6875
+[E22B10 |   7040/60000 ( 12%) ] Loss: 0.0131 top1= 99.6875
+[E22B20 |  13440/60000 ( 22%) ] Loss: 0.0097 top1= 99.8438
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3873 top1= 88.3013
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.3823 top1= 50.3506
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.6557 top1= 46.5645
+
+Train epoch 23
+[E23B0  |    640/60000 (  1%) ] Loss: 0.0120 top1= 99.8438
+[E23B10 |   7040/60000 ( 12%) ] Loss: 0.0060 top1= 99.6875
+[E23B20 |  13440/60000 ( 22%) ] Loss: 0.0061 top1=100.0000
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3804 top1= 88.3714
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.4811 top1= 50.4307
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.7394 top1= 46.5044
+
+Train epoch 24
+[E24B0  |    640/60000 (  1%) ] Loss: 0.0106 top1= 99.5312
+[E24B10 |   7040/60000 ( 12%) ] Loss: 0.0056 top1= 99.8438
+[E24B20 |  13440/60000 ( 22%) ] Loss: 0.0201 top1= 99.5312
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3821 top1= 88.2512
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.5536 top1= 50.4507
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.6036 top1= 46.6046
+
+Train epoch 25
+[E25B0  |    640/60000 (  1%) ] Loss: 0.0134 top1= 99.6875
+[E25B10 |   7040/60000 ( 12%) ] Loss: 0.0151 top1= 99.5312
+[E25B20 |  13440/60000 ( 22%) ] Loss: 0.0153 top1= 99.6875
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3857 top1= 88.2812
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.6467 top1= 50.4307
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.1102 top1= 46.6046
+
+Train epoch 26
+[E26B0  |    640/60000 (  1%) ] Loss: 0.0220 top1= 99.3750
+[E26B10 |   7040/60000 ( 12%) ] Loss: 0.0225 top1= 99.3750
+[E26B20 |  13440/60000 ( 22%) ] Loss: 0.0177 top1= 99.5312
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3829 top1= 88.6218
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.6112 top1= 50.4607
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=6.0639 top1= 46.7748
+
+Train epoch 27
+[E27B0  |    640/60000 (  1%) ] Loss: 0.0327 top1= 99.2188
+[E27B10 |   7040/60000 ( 12%) ] Loss: 0.0060 top1= 99.8438
+[E27B20 |  13440/60000 ( 22%) ] Loss: 0.0070 top1=100.0000
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3862 top1= 88.5317
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.4321 top1= 50.5008
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=5.9219 top1= 46.7248
+
+Train epoch 28
+[E28B0  |    640/60000 (  1%) ] Loss: 0.0064 top1=100.0000
+[E28B10 |   7040/60000 ( 12%) ] Loss: 0.0061 top1= 99.8438
+[E28B20 |  13440/60000 ( 22%) ] Loss: 0.0172 top1= 99.5312
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3866 top1= 88.6218
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.3063 top1= 50.5108
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=5.7503 top1= 46.8349
+
+Train epoch 29
+[E29B0  |    640/60000 (  1%) ] Loss: 0.0094 top1= 99.8438
+[E29B10 |   7040/60000 ( 12%) ] Loss: 0.0068 top1= 99.8438
+[E29B20 |  13440/60000 ( 22%) ] Loss: 0.0083 top1= 99.8438
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3836 top1= 88.6919
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.2605 top1= 50.5809
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=5.8783 top1= 46.8149
+
+Train epoch 30
+[E30B0  |    640/60000 (  1%) ] Loss: 0.0033 top1=100.0000
+[E30B10 |   7040/60000 ( 12%) ] Loss: 0.0018 top1=100.0000
+[E30B20 |  13440/60000 ( 22%) ] Loss: 0.0079 top1= 99.6875
+
+=> Averaged model (Global Average Validation Accuracy) | Eval Loss=0.3808 top1= 88.5617
+
+
+=> Averaged model (Clique1 Average Validation Accuracy) | Eval Loss=6.2327 top1= 50.5509
+
+
+=> Averaged model (Clique2 Average Validation Accuracy) | Eval Loss=5.9223 top1= 46.7849
+

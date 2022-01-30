@@ -1,0 +1,1 @@
+{"use_cuda": true, "debug": false, "seed": 0, "log_interval": 10, "identifier": "exp8_1", "analyze": false, "n": 20, "f": 0, "epochs": 30, "graph": "dumbbell10,0,1", "attack": "NA", "batch_size": 32, "test_batch_size": 128, "max_batch_size_per_epoch": 30, "lr": 0.01, "momentum": 0.9, "agg": "mozi0.99,0.5bucketing", "noniid": 1.0, "longtail": 0}
