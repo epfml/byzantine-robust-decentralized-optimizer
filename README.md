@@ -28,6 +28,9 @@ The structure of the repository is as follows:
 - `honest_majority.py`: Study the influence of honest majority in the text.
     - Generate Fig. 6 in the main text.
 
+- `dumbbell_CIFAR.py` and `run_plot_CIFAR.ipynb`:
+    - Generate Fig. 11 in the appendix.
+
 # Reproduction
 
 To reproduce the results in the paper, do the following steps

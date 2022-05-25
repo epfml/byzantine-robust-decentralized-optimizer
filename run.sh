@@ -138,8 +138,55 @@ function dumbbell_improvement_plot {
 }
 
 
+function dumbbell_CIFAR {
+    # Task: Compare aggregators on iid noniid topology
+    COMMON="-n 20 -f 0 --graph dumbbell10,0,0 --attack NA --lr 0.1 --use-cuda --epochs 150 --batch-size 64 --max-batch-size-per-epoch 9999 --momentum 0.9"
+    for noniid in 1 0
+    do
+        for agg in "tm1" "gossip_avg"  "scp10"
+        do
+            python dumbbell_CIFAR.py ${COMMON} --noniid ${noniid} --agg ${agg} --identifier "exp" &
+            pids[$!]=$!
+        done
+
+        # wait for all pids
+        for pid in ${pids[*]}; do
+            wait $pid
+        done
+        unset pids
+    done
+
+    for noniid in 1 0
+    do
+        for agg in "rfa8" "mozi0.4,0.5"
+        do
+            python dumbbell_CIFAR.py ${COMMON} --noniid ${noniid} --agg ${agg} --identifier "exp" &
+            pids[$!]=$!
+        done
+    done
+    
+    # wait for all pids
+    for pid in ${pids[*]}; do
+        wait $pid
+    done
+    unset pids
+}
+
+function dumbbell_CIFAR_plot {
+    # Task: Compare aggregators on iid noniid topology 
+    COMMON="-n 20 -f 0 --graph dumbbell10,0,0 --attack NA --lr 0.1 --use-cuda --epochs 150 --batch-size 64 --max-batch-size-per-epoch 9999 --momentum 0.9"
+
+    for noniid in 1
+    do
+        for agg in "gossip_avg"
+        do
+            python dumbbell_CIFAR.py ${COMMON} --noniid ${noniid} --agg ${agg} --identifier "exp" --analyze
+        done
+    done
+}
+
 PS3='Please enter your choice: '
-options=("debug" "optimization_delta" "optimization_delta_plot" "honest_majority" "honest_majority_plot" "dumbbell" "dumbbell_plot" "dumbbell_improvement" "dumbbell_improvement_plot" "Quit")
+options=("debug" "optimization_delta" "optimization_delta_plot" "honest_majority" "honest_majority_plot" "dumbbell" "dumbbell_plot" "dumbbell_improvement" "dumbbell_improvement_plot" "dumbbell_CIFAR" "dumbbell_CIFAR_plot" "Quit")
 select opt in "${options[@]}"
 do
     case $opt in
@@ -176,6 +223,14 @@ do
 
         "dumbbell_improvement_plot")
             dumbbell_improvement_plot
+            ;;
+
+        "dumbbell_CIFAR")
+            dumbbell_CIFAR
+            ;;
+        
+        "dumbbell_CIFAR_plot")
+            dumbbell_CIFAR_plot
             ;;
 
         "debug")
